@@ -2125,7 +2125,8 @@
 					"hexColor": "#002855"
 				}
 			]
-		}, {
+		},
+		{
 			"confFullName": "Pacific Coast",
 			"confPrestige": "80",
 			"confName": "PAC",
@@ -2669,7 +2670,8 @@
 					"hexColor": "#981E32"
 				}
 			]
-		}, {
+		},
+		{
 			"confFullName": "Continental",
 			"confPrestige": "80",
 			"confName": "CONT",
@@ -3206,7 +3208,8 @@
 					"hexColor": "#CE1126"
 				}
 			]
-		}, {
+		},
+		{
 			"confFullName": "Sun Belt",
 			"confPrestige": "55",
 			"confName": "SUN",
@@ -3301,7 +3304,8 @@
 					"hexColor": "#8A2432"
 				}
 			]
-		}, {
+		},
+		{
 			"confFullName": "Mid American",
 			"confPrestige": "55",
 			"confName": "MAC",
@@ -3396,7 +3400,8 @@
 					"hexColor": "#6C4023"
 				}
 			]
-		}, {
+		},
+		{
 			"confFullName": "Independence",
 			"confPrestige": "60",
 			"confName": "IND",
@@ -3495,7 +3500,8 @@
 					"hexColor": "#002D62"
 				}
 			]
-		}, {
+		},
+		{
 			"confFullName": "Conference USA",
 			"confPrestige": "60",
 			"confName": "CUSA",
@@ -3590,7 +3596,8 @@
 					"hexColor": "#C60C30"
 				}
 			]
-		}, {
+		},
+		{
 			"confFullName": "Mountain West",
 			"confPrestige": "70",
 			"confName": "MWC",
@@ -3687,7 +3694,8 @@
 					"hexColor": "#492F24"
 				}
 			]
-		}, {
+		},
+		{
 			"confFullName": "American Athletic",
 			"confPrestige": "70",
 			"confName": "AAC",
