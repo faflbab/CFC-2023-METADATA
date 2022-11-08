@@ -535,7 +535,7 @@
 					"name": "Indiana",
 					"state": "Indiana",
 					"abbreviation": "IND",
-				"offCoordinator": {
+					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2022",
 						"age": "55",
@@ -1082,7 +1082,7 @@
 					"name": "Clemson",
 					"state": "South Carolina",
 					"abbreviation": "CLEM",
-				"offCoordinator": {
+					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2022",
 						"age": "56",
@@ -1585,7 +1585,7 @@
 					"name": "Baylor",
 					"state": "Texas",
 					"abbreviation": "BAY",
-				"offCoordinator": {
+					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2022",
 						"age": "33",
@@ -2116,7 +2116,7 @@
 						"baselinePrestige": "70",
 						"name": "Neal Brown",
 						"contractYear": "0"
-					}
+					},
 					"rival": ["PITT", "MARY", "KAN"],
 					"rivalryNames": {
 						"PITT": "The Backyard Brawl"
@@ -2125,8 +2125,7 @@
 					"hexColor": "#002855"
 				}
 			]
-		},
-		{
+		}, {
 			"confFullName": "Pacific Coast",
 			"confPrestige": "80",
 			"confName": "PAC",
@@ -2134,7 +2133,7 @@
 					"name": "California",
 					"state": "California",
 					"abbreviation": "CAL",
-				"offCoordinator": {
+					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2022",
 						"age": "34",
@@ -2670,8 +2669,7 @@
 					"hexColor": "#981E32"
 				}
 			]
-		},
-		{
+		}, {
 			"confFullName": "Continental",
 			"confPrestige": "80",
 			"confName": "CONT",
@@ -2679,7 +2677,7 @@
 					"name": "Illinois",
 					"state": "Illinois",
 					"abbreviation": "ILL",
-				"offCoordinator": {
+					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2022",
 						"age": "55",
@@ -3208,8 +3206,7 @@
 					"hexColor": "#CE1126"
 				}
 			]
-		},
-		{
+		}, {
 			"confFullName": "Sun Belt",
 			"confPrestige": "55",
 			"confName": "SUN",
@@ -3304,8 +3301,7 @@
 					"hexColor": "#8A2432"
 				}
 			]
-		},
-		{
+		}, {
 			"confFullName": "Mid American",
 			"confPrestige": "55",
 			"confName": "MAC",
@@ -3400,8 +3396,7 @@
 					"hexColor": "#6C4023"
 				}
 			]
-		},
-		{
+		}, {
 			"confFullName": "Independence",
 			"confPrestige": "60",
 			"confName": "IND",
@@ -3500,8 +3495,7 @@
 					"hexColor": "#002D62"
 				}
 			]
-		},
-		{
+		}, {
 			"confFullName": "Conference USA",
 			"confPrestige": "60",
 			"confName": "CUSA",
@@ -3596,8 +3590,7 @@
 					"hexColor": "#C60C30"
 				}
 			]
-		},
-		{
+		}, {
 			"confFullName": "Mountain West",
 			"confPrestige": "70",
 			"confName": "MWC",
@@ -3694,8 +3687,7 @@
 					"hexColor": "#492F24"
 				}
 			]
-		},
-		{
+		}, {
 			"confFullName": "American Athletic",
 			"confPrestige": "70",
 			"confName": "AAC",
