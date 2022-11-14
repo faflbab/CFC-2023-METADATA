@@ -7,7 +7,7 @@
 		"MWC": "PAC",
 		"AAC": "GWC"
 	},
-	"baseYear": 2021,
+	"baseYear": 2022,
 	"relegationRoutes": {
 		"SEC": "SUN",
 		"B10": "MAC",
@@ -56,16 +56,16 @@
 						"contractLength": "6",
 						"startYear": "2022",
 						"age": "69",
-						"ratOff": "71",
-						"cumulativePrestige": "0",
-						"ratDef": "66",
+						"ratOff": "90",
+						"cumulativePrestige": "20",
+						"ratDef": "90",
 						"homeState": "Nevada",
 						"ratPot": "58",
 						"hometown": "Mesquite",
 						"ratTalent": "91",
 						"baselinePrestige": "95",
 						"name": "Nick Saban",
-						"contractYear": "0"
+						"contractYear": "1"
 					},
 					"rival": ["AUB", "TENN"],
 					"rivalryNames": {
