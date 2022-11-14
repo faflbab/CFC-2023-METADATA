@@ -276,13 +276,13 @@
 						"contractLength": "6",
 						"startYear": "2022",
 						"age": "45",
-						"ratOff": "58",
+						"ratOff": "75",
 						"cumulativePrestige": "0",
-						"ratDef": "63",
+						"ratDef": "95",
 						"homeState": "Tennessee",
 						"ratPot": "67",
 						"hometown": "Kyles Ford",
-						"ratTalent": "57",
+						"ratTalent": "80",
 						"baselinePrestige": "85",
 						"name": "Kirby Smart",
 						"contractYear": "0"
@@ -292,7 +292,7 @@
 						"FLO": "World's Largest Cocktail Party",
 						"GT": "Clean Old-Fashioned Hate"
 					},
-					"prestige": "92",
+					"prestige": "95",
 					"hexColor": "#BA0C2F"
 				},
 				{
