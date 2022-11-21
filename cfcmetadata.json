@@ -127,7 +127,7 @@
 						"LSU": "Battle for the Golden Boot",
 						"TEX": "Southwest Classic"
 					},
-					"prestige": "80",
+					"prestige": "82",
 					"hexColor": "#9D2235"
 				},
 				{
@@ -182,7 +182,7 @@
 						"ALA": "Iron Bowl",
 						"UGA": "Deep South's Oldest Rivalry"
 					},
-					"prestige": "68",
+					"prestige": "65",
 					"hexColor": "#0C2340"
 				},
 				{
@@ -237,7 +237,7 @@
 						"UGA": "World's Largest Cocktail Party",
 						"FSU": "Sunshine Showdown"
 					},
-					"prestige": "77",
+					"prestige": "78",
 					"hexColor": "#0021A5"
 				},
 				{
@@ -348,7 +348,7 @@
 						"LSU": "Battle for the Golden Boot",
 						"TUL": "Battle for the Rag"
 					},
-					"prestige": "78",
+					"prestige": "87",
 					"hexColor": "#461D7C"
 				},
 				{
@@ -403,7 +403,7 @@
 						"ALA": "Third Saturday in October",
 						"VAND": "Rivarly Game"
 					},
-					"prestige": "79",
+					"prestige": "90",
 					"hexColor": "#FF8200"
 				},
 				{
@@ -458,7 +458,7 @@
 						"CLEM": "The Palmetto Bowl",
 						"MIZZ": "The Mayors Cup"
 					},
-					"prestige": "71",
+					"prestige": "75",
 					"hexColor": "#73000A"
 				},
 				{
@@ -522,7 +522,7 @@
 						"LSU": "Sabine Showdown",
 						"TEX": "Lone Star Showdown"
 					},
-					"prestige": "88",
+					"prestige": "85",
 					"hexColor": "#500000"
 				}
 			]
