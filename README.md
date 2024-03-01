@@ -1,5 +1,5 @@
 # CFC-2022-METADATA
-A semi-accurate CFC metadata file for the 2022 college football season, based on the AP Poll, conference odds, and general insight.
+A semi-accurate CFC metadata file for the 2024 college football season, based on the AP Poll, conference odds, and general insight.
 
 This file is for the CFC (College Football Coach) app on IOS/App Store. This can be imported when creating a league by pasting the link to the raw JSON when prompted.
 When creating a league, these are my recommended settings:
