@@ -3881,14 +3881,14 @@
                     "hexColor": "#00205B"
                 },
                 {
-                    "name": "Western Kentucky",
-                    "state": "Kentucky",
-                    "abbreviation": "WKU",
+                    "name": "Old Dominion",
+                    "state": "Virginia",
+                    "abbreviation": "ODU",
                     "rival": [
-                        "UAB"
+                        "JMU"
                     ],
                     "rivalryNames": {},
-                    "prestige": "65",
+                    "prestige": "35",
                     "hexColor": "#C60C30"
                 }
             ]
