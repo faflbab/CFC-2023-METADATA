@@ -3454,13 +3454,13 @@
                     "hexColor": "#006F71"
                 },
                 {
-                    "name": "Georgia Southern",
-                    "state": "Georgia",
-                    "abbreviation": "GSOU",
+                    "name": "Old Dominion",
+                    "state": "Virginia",
+                    "abbreviation": "ODU",
                     "rival": [
-                        "GSU"
+                        "JMU"
                     ],
-                    "rivalryNames": {},
+                    "rivalryNames": {"JMU": "The VA Bowl"},
                     "prestige": "43",
                     "hexColor": "#011E41"
                 },
