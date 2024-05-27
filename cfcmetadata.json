@@ -2727,60 +2727,61 @@
                     "hexColor": "#13294B"
                 },
                 {
-                    "name": "Brigham Young",
-                    "state": "Utah",
-                    "abbreviation": "BYU",
+                    "name": "Oregon",
+                    "state": "Oregon",
+                    "abbreviation": "ORE",
                     "offCoordinator": {
                         "contractLength": "3",
                         "startYear": "2022",
-                        "age": "49",
+                        "age": "37",
                         "cumulativePrestige": "0",
-                        "homeState": "Maryland",
-                        "ratPot": "65",
-                        "hometown": "Garrison",
+                        "homeState": "Hawaii",
+                        "ratPot": "90",
+                        "hometown": "Koloa",
                         "ratTalent": "60",
-                        "baselinePrestige": "75",
-                        "coachingAbility": "67",
-                        "name": "Aaron Roderick",
+                        "baselinePrestige": "90",
+                        "coachingAbility": "77",
+                        "name": "Junior Adams",
                         "contractYear": "0"
                     },
                     "defCoordinator": {
                         "contractLength": "3",
                         "startYear": "2022",
-                        "age": "39",
+                        "age": "34",
                         "cumulativePrestige": "0",
-                        "homeState": "Tennessee",
-                        "ratPot": "89",
-                        "hometown": "Newbern",
-                        "ratTalent": "59",
-                        "baselinePrestige": "75",
-                        "coachingAbility": "69",
-                        "name": "Ilaisa Tuiaki",
+                        "homeState": "American Samoa",
+                        "ratPot": "61",
+                        "hometown": "Aoloau",
+                        "ratTalent": "69",
+                        "baselinePrestige": "90",
+                        "coachingAbility": "65",
+                        "name": "Tosh Lupoi",
                         "contractYear": "0"
                     },
                     "headCoach": {
                         "contractLength": "6",
                         "startYear": "2022",
-                        "age": "42",
-                        "ratOff": "77",
+                        "age": "51",
+                        "ratOff": "70",
                         "cumulativePrestige": "0",
-                        "ratDef": "61",
-                        "homeState": "Massachusetts",
-                        "ratPot": "72",
-                        "hometown": "West Roxbury",
-                        "ratTalent": "67",
-                        "baselinePrestige": "75",
-                        "name": "Kalani Sitake",
+                        "ratDef": "87",
+                        "homeState": "California",
+                        "ratPot": "86",
+                        "hometown": "North Hills",
+                        "ratTalent": "63",
+                        "baselinePrestige": "80",
+                        "name": "Dan Lanning",
                         "contractYear": "0"
                     },
                     "rival": [
-                        "UTAH"
+                        "ORSU",
+                        "WASH"
                     ],
                     "rivalryNames": {
-                        "UTAH": "The Holy War"
+                        "ORSU": "The Civil War"
                     },
-                    "prestige": "65",
-                    "hexColor": "#002E5D"
+                    "prestige": "88",
+                    "hexColor": "#154733"
                 },
                 {
                     "name": "Mississippi State",
