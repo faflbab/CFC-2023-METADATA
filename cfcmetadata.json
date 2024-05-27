@@ -2,7 +2,7 @@
     "promotionRoutes": {
         "SECii": "SEC",
         "B10ii": "B10",
-        "COL": "ACC",
+        "ACCii": "ACC",
         "B12ii": "B12",
         "MWC": "PAC",
         "AAC": "GWC"
@@ -11,7 +11,7 @@
     "relegationRoutes": {
         "SEC": "SECii",
         "B10": "B10ii",
-        "ACC": "COL",
+        "ACC": "ACCii",
         "B12": "B12ii",
         "PAC": "MWC",
         "AAC": "GWC"
@@ -3610,9 +3610,9 @@
             ]
         },
         {
-            "confFullName": "Independence",
-            "confPrestige": "60",
-            "confName": "IND",
+            "confFullName": "Atlantic Coast II",
+            "confPrestige": "75",
+            "confName": "ACCii",
             "confTeams": [
                 {
                     "name": "Stanford",
