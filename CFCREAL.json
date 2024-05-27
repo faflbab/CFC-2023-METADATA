@@ -5,8 +5,8 @@
         "B10ii": "B10",
         "ACCii": "ACC",
         "B12ii": "B12",
-        "MWC": "CUSA",
-        "AAC": "MAC"
+        "CUSA": "MWC",
+        "MAC": "AAC"
     },
     "baseYear": 2024,
     "relegationRoutes": {
@@ -14,8 +14,8 @@
         "B10": "B10ii",
         "ACC": "ACCii",
         "B12": "B12ii",
-        "CUSA": "MWC",
-        "MAC": "AAC"
+        "MWC": "CUSA",
+        "AAC": "MAC"
     },
     "conferences": [
         {
@@ -1701,7 +1701,7 @@
         },
         {
             "confFullName": "Big 12",
-            "confPrestige": "90",
+            "confPrestige": "85",
             "confName": "B12",
             "confTeams": [
                 {
@@ -2466,7 +2466,7 @@
         },
         {
             "confFullName": "Southeastern II",
-            "confPrestige": "80",
+            "confPrestige": "75",
             "confName": "SECii",
             "confTeams": [
                 {
@@ -2859,7 +2859,7 @@
         },
         {
             "confFullName": "Big 10 II",
-            "confPrestige": "55",
+            "confPrestige": "70",
             "confName": "B10ii",
             "confTeams": [
                 {
@@ -3504,7 +3504,7 @@
         },
         {
             "confFullName": "Big 12 ii",
-            "confPrestige": "60",
+            "confPrestige": "75",
             "confName": "B12ii",
             "confTeams": [
                 {
