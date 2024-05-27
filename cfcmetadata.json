@@ -1,7 +1,7 @@
 {
     "promotionRoutes": {
         "SECii": "SEC",
-        "MAC": "B10",
+        "B10ii": "B10",
         "COL": "ACC",
         "B12ii": "B12",
         "MWC": "PAC",
@@ -10,7 +10,7 @@
     "baseYear": 2024,
     "relegationRoutes": {
         "SEC": "SECii",
-        "B10": "MAC",
+        "B10": "B10ii",
         "ACC": "COL",
         "B12": "B12ii",
         "PAC": "MWC",
@@ -2667,9 +2667,9 @@
             ]
         },
         {
-            "confFullName": "Continental",
+            "confFullName": "Big 10 II",
             "confPrestige": "80",
-            "confName": "CONT",
+            "confName": "B10ii",
             "confTeams": [
                 {
                     "name": "Illinois",
