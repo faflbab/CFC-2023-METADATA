@@ -2236,434 +2236,114 @@
             "confName": "B12ii",
             "confTeams": [
                 {
-                    "name": "Colorado",
-                    "state": "Colorado",
-                    "abbreviation": "CU",
-                    "offCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "34",
-                        "cumulativePrestige": "0",
-                        "homeState": "New Jersey",
-                        "ratPot": "78",
-                        "hometown": "Totowa",
-                        "ratTalent": "75",
-                        "baselinePrestige": "70",
-                        "coachingAbility": "60",
-                        "name": "Bill Musgrave",
-                        "contractYear": "0"
-                    },
-                    "defCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "46",
-                        "cumulativePrestige": "0",
-                        "homeState": "Mississippi",
-                        "ratPot": "55",
-                        "hometown": "Moorhead",
-                        "ratTalent": "86",
-                        "baselinePrestige": "70",
-                        "coachingAbility": "79",
-                        "name": "Peter Sirmon",
-                        "contractYear": "0"
-                    },
-                    "headCoach": {
-                        "contractLength": "6",
-                        "startYear": "2022",
-                        "age": "39",
-                        "ratOff": "65",
-                        "cumulativePrestige": "0",
-                        "ratDef": "69",
-                        "homeState": "California",
-                        "ratPot": "80",
-                        "hometown": "Placentia",
-                        "ratTalent": "90",
-                        "baselinePrestige": "70",
-                        "name": "Deion Sanders",
-                        "contractYear": "0"
-                    },
-                    "rival": [
-                        "CSU"
-                    ],
-                    "rivalryNames": {},
-                    "prestige": "60",
-                    "hexColor": "#CFB87C"
-                },
-                {
-                    "name": "Brigham Young",
-                    "state": "Utah",
-                    "abbreviation": "BYU",
-                    "offCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "49",
-                        "cumulativePrestige": "0",
-                        "homeState": "Maryland",
-                        "ratPot": "65",
-                        "hometown": "Garrison",
-                        "ratTalent": "60",
-                        "baselinePrestige": "75",
-                        "coachingAbility": "67",
-                        "name": "Aaron Roderick",
-                        "contractYear": "0"
-                    },
-                    "defCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "39",
-                        "cumulativePrestige": "0",
-                        "homeState": "Tennessee",
-                        "ratPot": "89",
-                        "hometown": "Newbern",
-                        "ratTalent": "59",
-                        "baselinePrestige": "75",
-                        "coachingAbility": "69",
-                        "name": "Ilaisa Tuiaki",
-                        "contractYear": "0"
-                    },
-                    "headCoach": {
-                        "contractLength": "6",
-                        "startYear": "2022",
-                        "age": "42",
-                        "ratOff": "77",
-                        "cumulativePrestige": "0",
-                        "ratDef": "61",
-                        "homeState": "Massachusetts",
-                        "ratPot": "72",
-                        "hometown": "West Roxbury",
-                        "ratTalent": "67",
-                        "baselinePrestige": "75",
-                        "name": "Kalani Sitake",
-                        "contractYear": "0"
-                    },
-                    "rival": [
-                        "UTAH"
-                    ],
-                    "rivalryNames": {
-                        "UTAH": "The Holy War"
-                    },
-                    "prestige": "65",
-                    "hexColor": "#002E5D"
-                },
-                {
-                    "name": "Oregon State",
-                    "state": "Oregon",
-                    "abbreviation": "ORSU",
-                    "offCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "55",
-                        "cumulativePrestige": "0",
-                        "homeState": "Massachusetts",
-                        "ratPot": "61",
-                        "hometown": "Newton Centre",
-                        "ratTalent": "49",
-                        "baselinePrestige": "70",
-                        "coachingAbility": "66",
-                        "name": "Brian Lindgren",
-                        "contractYear": "0"
-                    },
-                    "defCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "47",
-                        "cumulativePrestige": "0",
-                        "homeState": "American Samoa",
-                        "ratPot": "91",
-                        "hometown": "Letula",
-                        "ratTalent": "56",
-                        "baselinePrestige": "70",
-                        "coachingAbility": "64",
-                        "name": "Trent Bray",
-                        "contractYear": "0"
-                    },
-                    "headCoach": {
-                        "contractLength": "6",
-                        "startYear": "2022",
-                        "age": "46",
-                        "ratOff": "72",
-                        "cumulativePrestige": "0",
-                        "ratDef": "67",
-                        "homeState": "Nevada",
-                        "ratPot": "67",
-                        "hometown": "Fallon",
-                        "ratTalent": "64",
-                        "baselinePrestige": "70",
-                        "name": "Jonathan Smith",
-                        "contractYear": "0"
-                    },
-                    "rival": [
-                        "ORE"
-                    ],
-                    "rivalryNames": {
-                        "ORE": "The Civil War"
-                    },
-                    "prestige": "75",
-                    "hexColor": "#DC4405"
-                },
-                {
-                    "name": "Central Florida",
+                    "name": "Florida Atlantic",
                     "state": "Florida",
-                    "abbreviation": "UCF",
+                    "abbreviation": "FAU",
                     "rival": [
-                        "USF"
+                        "FIU"
                     ],
-                    "rivalryNames": {
-                        "USF": "War on I4"
-                    },
-                    "prestige": "67",
-                    "hexColor": "#BA9B37"
+                    "rivalryNames": {},
+                    "prestige": "52",
+                    "hexColor": "#003366"
                 },
                 {
-                    "name": "Utah",
-                    "state": "Utah",
-                    "abbreviation": "UTAH",
-                    "offCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "59",
-                        "cumulativePrestige": "0",
-                        "homeState": "Connecticut",
-                        "ratPot": "74",
-                        "hometown": "The Hill",
-                        "ratTalent": "60",
-                        "baselinePrestige": "80",
-                        "coachingAbility": "76",
-                        "name": "Andy Ludwig",
-                        "contractYear": "0"
-                    },
-                    "defCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "35",
-                        "cumulativePrestige": "0",
-                        "homeState": "Oklahoma",
-                        "ratPot": "92",
-                        "hometown": "Jenks",
-                        "ratTalent": "57",
-                        "baselinePrestige": "80",
-                        "coachingAbility": "70",
-                        "name": "Morgan Scalley",
-                        "contractYear": "0"
-                    },
-                    "headCoach": {
-                        "contractLength": "6",
-                        "startYear": "2022",
-                        "age": "43",
-                        "ratOff": "81",
-                        "cumulativePrestige": "0",
-                        "ratDef": "73",
-                        "homeState": "Kansas",
-                        "ratPot": "95",
-                        "hometown": "Kinsley",
-                        "ratTalent": "90",
-                        "baselinePrestige": "80",
-                        "name": "Kyle Wittingham",
-                        "contractYear": "0"
-                    },
+                    "name": "Florida International",
+                    "state": "Florida",
+                    "abbreviation": "FIU",
                     "rival": [
-                        "BYU",
-                        "USU"
+                        "FAU"
                     ],
-                    "rivalryNames": {
-                        "BYU": "The Holy War",
-                        "USU": "Battle of the Brothers"
-                    },
-                    "prestige": "86",
-                    "hexColor": "#CC0000"
+                    "rivalryNames": {},
+                    "prestige": "38",
+                    "hexColor": "#081E3F"
                 },
                 {
-                    "name": "Utah State",
-                    "state": "Utah",
-                    "abbreviation": "USU",
+                    "name": "LA Tech",
+                    "state": "Louisiana",
+                    "abbreviation": "LTEC",
                     "rival": [
-                        "UTAH",
-                        "HAW"
+                        "MTSU"
                     ],
-                    "rivalryNames": {
-                        "UTAH": "Battle of the Brothers"
-                    },
-                    "prestige": "35",
-                    "hexColor": "#00263A"
+                    "rivalryNames": {},
+                    "prestige": "30",
+                    "hexColor": "#002F8B"
                 },
                 {
-                    "name": "Arizona",
-                    "state": "Arizona",
-                    "abbreviation": "AZ",
-                    "offCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "36",
-                        "cumulativePrestige": "0",
-                        "homeState": "Vermont",
-                        "ratPot": "52",
-                        "hometown": "Ascutney",
-                        "ratTalent": "83",
-                        "baselinePrestige": "25",
-                        "coachingAbility": "49",
-                        "name": "Brennan Carroll",
-                        "contractYear": "0"
-                    },
-                    "defCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "50",
-                        "cumulativePrestige": "0",
-                        "homeState": "American Samoa",
-                        "ratPot": "58",
-                        "hometown": "Luluia",
-                        "ratTalent": "82",
-                        "baselinePrestige": "25",
-                        "coachingAbility": "58",
-                        "name": "Johnny Nansen",
-                        "contractYear": "0"
-                    },
-                    "headCoach": {
-                        "contractLength": "6",
-                        "startYear": "2022",
-                        "age": "39",
-                        "ratOff": "67",
-                        "cumulativePrestige": "0",
-                        "ratDef": "70",
-                        "homeState": "South Dakota",
-                        "ratPot": "70",
-                        "hometown": "Tripp",
-                        "ratTalent": "73",
-                        "baselinePrestige": "25",
-                        "name": "Jedd Fisch",
-                        "contractYear": "0"
-                    },
+                    "name": "Middle Tennessee",
+                    "state": "Tennessee",
+                    "abbreviation": "MTSU",
                     "rival": [
-                        "ASU"
+                        "LTEC"
                     ],
-                    "rivalryNames": {
-                        "ASU": "The Duel in the Desert"
-                    },
-                    "prestige": "77",
-                    "hexColor": "#CC0033"
+                    "rivalryNames": {},
+                    "prestige": "45",
+                    "hexColor": "#0066CC"
                 },
                 {
-                    "name": "Arizona State",
-                    "state": "Arizona",
-                    "abbreviation": "ASU",
-                    "offCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "46",
-                        "cumulativePrestige": "0",
-                        "homeState": "Maine",
-                        "ratPot": "89",
-                        "hometown": "Belfast",
-                        "ratTalent": "77",
-                        "baselinePrestige": "75",
-                        "coachingAbility": "74",
-                        "name": "Glenn Thomas",
-                        "contractYear": "0"
-                    },
-                    "defCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "52",
-                        "cumulativePrestige": "0",
-                        "homeState": "Montana",
-                        "ratPot": "97",
-                        "hometown": "Trout Creek",
-                        "ratTalent": "47",
-                        "baselinePrestige": "75",
-                        "coachingAbility": "61",
-                        "name": "Donnie Henderson",
-                        "contractYear": "0"
-                    },
-                    "headCoach": {
-                        "contractLength": "6",
-                        "startYear": "2022",
-                        "age": "56",
-                        "ratOff": "70",
-                        "cumulativePrestige": "0",
-                        "ratDef": "70",
-                        "homeState": "Arizona",
-                        "ratPot": "7o",
-                        "hometown": "Phoenix",
-                        "ratTalent": "79",
-                        "baselinePrestige": "75",
-                        "name": "Kenny Dillingham",
-                        "contractYear": "0"
-                    },
+                    "name": "UAB",
+                    "state": "Alabama",
+                    "abbreviation": "UAB",
                     "rival": [
-                        "AZ"
+                        "WKU"
                     ],
-                    "rivalryNames": {
-                        "AZ": "The Duel in the Desert"
-                    },
-                    "prestige": "55",
-                    "hexColor": "#8C1D40"
+                    "rivalryNames": {},
+                    "prestige": "58",
+                    "hexColor": "#006341"
                 },
                 {
-                    "name": "Boise State",
-                    "state": "Idaho",
-                    "abbreviation": "BSU",
+                    "name": "UTSA",
+                    "state": "Texas",
+                    "abbreviation": "UTSA",
                     "rival": [
-                        "FRES"
+                        "UTEP"
                     ],
                     "rivalryNames": {},
                     "prestige": "68",
-                    "hexColor": "#D64309"
+                    "hexColor": "#F15A22"
                 },
                 {
-                    "name": "Washington State",
-                    "state": "Washington",
-                    "abbreviation": "WSU",
-                    "offCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "54",
-                        "cumulativePrestige": "0",
-                        "homeState": "Massachusetts",
-                        "ratPot": "76",
-                        "hometown": "North Oxford",
-                        "ratTalent": "58",
-                        "baselinePrestige": "70",
-                        "coachingAbility": "64",
-                        "name": "Eric Morris",
-                        "contractYear": "0"
-                    },
-                    "defCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "53",
-                        "cumulativePrestige": "0",
-                        "homeState": "Alaska",
-                        "ratPot": "90",
-                        "hometown": "Kotzebue",
-                        "ratTalent": "76",
-                        "baselinePrestige": "70",
-                        "coachingAbility": "71",
-                        "name": "Brian Ward",
-                        "contractYear": "0"
-                    },
-                    "headCoach": {
-                        "contractLength": "6",
-                        "startYear": "2022",
-                        "age": "58",
-                        "ratOff": "76",
-                        "cumulativePrestige": "0",
-                        "ratDef": "58",
-                        "homeState": "California",
-                        "ratPot": "74",
-                        "hometown": "Big Bear",
-                        "ratTalent": "53",
-                        "baselinePrestige": "70",
-                        "name": "Jake Dickert",
-                        "contractYear": "0"
-                    },
+                    "name": "UTEP",
+                    "state": "Texas",
+                    "abbreviation": "UTEP",
                     "rival": [
-                        "WASH"
+                        "UTSA"
                     ],
-                    "rivalryNames": {
-                        "WASH": "The Apple Cup"
-                    },
-                    "prestige": "68",
-                    "hexColor": "#981E32"
+                    "rivalryNames": {},
+                    "prestige": "37",
+                    "hexColor": "#FF8200"
+                },
+                {
+                    "name": "North Texas",
+                    "state": "Texas",
+                    "abbreviation": "UNT",
+                    "rival": [
+                        "RICE"
+                    ],
+                    "rivalryNames": {},
+                    "prestige": "40",
+                    "hexColor": "#00853E"
+                },
+                {
+                    "name": "Rice",
+                    "state": "Texas",
+                    "abbreviation": "RICE",
+                    "rival": [
+                        "UNT"
+                    ],
+                    "rivalryNames": {},
+                    "prestige": "35",
+                    "hexColor": "#00205B"
+                },
+                {
+                    "name": "Western Kentucky",
+                    "state": "Kentucky",
+                    "abbreviation": "WKU",
+                    "rival": [
+                        "UAB"
+                    ],
+                    "rivalryNames": {},
+                    "prestige": "65",
+                    "hexColor": "#C60C30"
                 }
             ]
         },
@@ -3823,119 +3503,439 @@
             ]
         },
         {
-            "confFullName": "Conference USA",
+            "confFullName": "Big 12 ii",
             "confPrestige": "60",
-            "confName": "CUSA",
+            "confName": "B12ii",
             "confTeams": [
                 {
-                    "name": "Florida Atlantic",
+                    "name": "Colorado",
+                    "state": "Colorado",
+                    "abbreviation": "CU",
+                    "offCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "34",
+                        "cumulativePrestige": "0",
+                        "homeState": "New Jersey",
+                        "ratPot": "78",
+                        "hometown": "Totowa",
+                        "ratTalent": "75",
+                        "baselinePrestige": "70",
+                        "coachingAbility": "60",
+                        "name": "Bill Musgrave",
+                        "contractYear": "0"
+                    },
+                    "defCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "46",
+                        "cumulativePrestige": "0",
+                        "homeState": "Mississippi",
+                        "ratPot": "55",
+                        "hometown": "Moorhead",
+                        "ratTalent": "86",
+                        "baselinePrestige": "70",
+                        "coachingAbility": "79",
+                        "name": "Peter Sirmon",
+                        "contractYear": "0"
+                    },
+                    "headCoach": {
+                        "contractLength": "6",
+                        "startYear": "2022",
+                        "age": "39",
+                        "ratOff": "65",
+                        "cumulativePrestige": "0",
+                        "ratDef": "69",
+                        "homeState": "California",
+                        "ratPot": "80",
+                        "hometown": "Placentia",
+                        "ratTalent": "90",
+                        "baselinePrestige": "70",
+                        "name": "Deion Sanders",
+                        "contractYear": "0"
+                    },
+                    "rival": [
+                        "CSU"
+                    ],
+                    "rivalryNames": {},
+                    "prestige": "60",
+                    "hexColor": "#CFB87C"
+                },
+                {
+                    "name": "Brigham Young",
+                    "state": "Utah",
+                    "abbreviation": "BYU",
+                    "offCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "49",
+                        "cumulativePrestige": "0",
+                        "homeState": "Maryland",
+                        "ratPot": "65",
+                        "hometown": "Garrison",
+                        "ratTalent": "60",
+                        "baselinePrestige": "75",
+                        "coachingAbility": "67",
+                        "name": "Aaron Roderick",
+                        "contractYear": "0"
+                    },
+                    "defCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "39",
+                        "cumulativePrestige": "0",
+                        "homeState": "Tennessee",
+                        "ratPot": "89",
+                        "hometown": "Newbern",
+                        "ratTalent": "59",
+                        "baselinePrestige": "75",
+                        "coachingAbility": "69",
+                        "name": "Ilaisa Tuiaki",
+                        "contractYear": "0"
+                    },
+                    "headCoach": {
+                        "contractLength": "6",
+                        "startYear": "2022",
+                        "age": "42",
+                        "ratOff": "77",
+                        "cumulativePrestige": "0",
+                        "ratDef": "61",
+                        "homeState": "Massachusetts",
+                        "ratPot": "72",
+                        "hometown": "West Roxbury",
+                        "ratTalent": "67",
+                        "baselinePrestige": "75",
+                        "name": "Kalani Sitake",
+                        "contractYear": "0"
+                    },
+                    "rival": [
+                        "UTAH"
+                    ],
+                    "rivalryNames": {
+                        "UTAH": "The Holy War"
+                    },
+                    "prestige": "65",
+                    "hexColor": "#002E5D"
+                },
+                {
+                    "name": "Oregon State",
+                    "state": "Oregon",
+                    "abbreviation": "ORSU",
+                    "offCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "55",
+                        "cumulativePrestige": "0",
+                        "homeState": "Massachusetts",
+                        "ratPot": "61",
+                        "hometown": "Newton Centre",
+                        "ratTalent": "49",
+                        "baselinePrestige": "70",
+                        "coachingAbility": "66",
+                        "name": "Brian Lindgren",
+                        "contractYear": "0"
+                    },
+                    "defCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "47",
+                        "cumulativePrestige": "0",
+                        "homeState": "American Samoa",
+                        "ratPot": "91",
+                        "hometown": "Letula",
+                        "ratTalent": "56",
+                        "baselinePrestige": "70",
+                        "coachingAbility": "64",
+                        "name": "Trent Bray",
+                        "contractYear": "0"
+                    },
+                    "headCoach": {
+                        "contractLength": "6",
+                        "startYear": "2022",
+                        "age": "46",
+                        "ratOff": "72",
+                        "cumulativePrestige": "0",
+                        "ratDef": "67",
+                        "homeState": "Nevada",
+                        "ratPot": "67",
+                        "hometown": "Fallon",
+                        "ratTalent": "64",
+                        "baselinePrestige": "70",
+                        "name": "Jonathan Smith",
+                        "contractYear": "0"
+                    },
+                    "rival": [
+                        "ORE"
+                    ],
+                    "rivalryNames": {
+                        "ORE": "The Civil War"
+                    },
+                    "prestige": "75",
+                    "hexColor": "#DC4405"
+                },
+                {
+                    "name": "Central Florida",
                     "state": "Florida",
-                    "abbreviation": "FAU",
+                    "abbreviation": "UCF",
                     "rival": [
-                        "FIU"
+                        "USF"
                     ],
-                    "rivalryNames": {},
-                    "prestige": "52",
-                    "hexColor": "#003366"
+                    "rivalryNames": {
+                        "USF": "War on I4"
+                    },
+                    "prestige": "67",
+                    "hexColor": "#BA9B37"
                 },
                 {
-                    "name": "Florida International",
-                    "state": "Florida",
-                    "abbreviation": "FIU",
+                    "name": "Utah",
+                    "state": "Utah",
+                    "abbreviation": "UTAH",
+                    "offCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "59",
+                        "cumulativePrestige": "0",
+                        "homeState": "Connecticut",
+                        "ratPot": "74",
+                        "hometown": "The Hill",
+                        "ratTalent": "60",
+                        "baselinePrestige": "80",
+                        "coachingAbility": "76",
+                        "name": "Andy Ludwig",
+                        "contractYear": "0"
+                    },
+                    "defCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "35",
+                        "cumulativePrestige": "0",
+                        "homeState": "Oklahoma",
+                        "ratPot": "92",
+                        "hometown": "Jenks",
+                        "ratTalent": "57",
+                        "baselinePrestige": "80",
+                        "coachingAbility": "70",
+                        "name": "Morgan Scalley",
+                        "contractYear": "0"
+                    },
+                    "headCoach": {
+                        "contractLength": "6",
+                        "startYear": "2022",
+                        "age": "43",
+                        "ratOff": "81",
+                        "cumulativePrestige": "0",
+                        "ratDef": "73",
+                        "homeState": "Kansas",
+                        "ratPot": "95",
+                        "hometown": "Kinsley",
+                        "ratTalent": "90",
+                        "baselinePrestige": "80",
+                        "name": "Kyle Wittingham",
+                        "contractYear": "0"
+                    },
                     "rival": [
-                        "FAU"
+                        "BYU",
+                        "USU"
                     ],
-                    "rivalryNames": {},
-                    "prestige": "38",
-                    "hexColor": "#081E3F"
+                    "rivalryNames": {
+                        "BYU": "The Holy War",
+                        "USU": "Battle of the Brothers"
+                    },
+                    "prestige": "86",
+                    "hexColor": "#CC0000"
                 },
                 {
-                    "name": "LA Tech",
-                    "state": "Louisiana",
-                    "abbreviation": "LTEC",
+                    "name": "Utah State",
+                    "state": "Utah",
+                    "abbreviation": "USU",
                     "rival": [
-                        "MTSU"
+                        "UTAH",
+                        "HAW"
                     ],
-                    "rivalryNames": {},
-                    "prestige": "30",
-                    "hexColor": "#002F8B"
+                    "rivalryNames": {
+                        "UTAH": "Battle of the Brothers"
+                    },
+                    "prestige": "35",
+                    "hexColor": "#00263A"
                 },
                 {
-                    "name": "Middle Tennessee",
-                    "state": "Tennessee",
-                    "abbreviation": "MTSU",
+                    "name": "Arizona",
+                    "state": "Arizona",
+                    "abbreviation": "AZ",
+                    "offCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "36",
+                        "cumulativePrestige": "0",
+                        "homeState": "Vermont",
+                        "ratPot": "52",
+                        "hometown": "Ascutney",
+                        "ratTalent": "83",
+                        "baselinePrestige": "25",
+                        "coachingAbility": "49",
+                        "name": "Brennan Carroll",
+                        "contractYear": "0"
+                    },
+                    "defCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "50",
+                        "cumulativePrestige": "0",
+                        "homeState": "American Samoa",
+                        "ratPot": "58",
+                        "hometown": "Luluia",
+                        "ratTalent": "82",
+                        "baselinePrestige": "25",
+                        "coachingAbility": "58",
+                        "name": "Johnny Nansen",
+                        "contractYear": "0"
+                    },
+                    "headCoach": {
+                        "contractLength": "6",
+                        "startYear": "2022",
+                        "age": "39",
+                        "ratOff": "67",
+                        "cumulativePrestige": "0",
+                        "ratDef": "70",
+                        "homeState": "South Dakota",
+                        "ratPot": "70",
+                        "hometown": "Tripp",
+                        "ratTalent": "73",
+                        "baselinePrestige": "25",
+                        "name": "Jedd Fisch",
+                        "contractYear": "0"
+                    },
                     "rival": [
-                        "LTEC"
+                        "ASU"
                     ],
-                    "rivalryNames": {},
-                    "prestige": "45",
-                    "hexColor": "#0066CC"
+                    "rivalryNames": {
+                        "ASU": "The Duel in the Desert"
+                    },
+                    "prestige": "77",
+                    "hexColor": "#CC0033"
                 },
                 {
-                    "name": "UAB",
-                    "state": "Alabama",
-                    "abbreviation": "UAB",
+                    "name": "Arizona State",
+                    "state": "Arizona",
+                    "abbreviation": "ASU",
+                    "offCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "46",
+                        "cumulativePrestige": "0",
+                        "homeState": "Maine",
+                        "ratPot": "89",
+                        "hometown": "Belfast",
+                        "ratTalent": "77",
+                        "baselinePrestige": "75",
+                        "coachingAbility": "74",
+                        "name": "Glenn Thomas",
+                        "contractYear": "0"
+                    },
+                    "defCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "52",
+                        "cumulativePrestige": "0",
+                        "homeState": "Montana",
+                        "ratPot": "97",
+                        "hometown": "Trout Creek",
+                        "ratTalent": "47",
+                        "baselinePrestige": "75",
+                        "coachingAbility": "61",
+                        "name": "Donnie Henderson",
+                        "contractYear": "0"
+                    },
+                    "headCoach": {
+                        "contractLength": "6",
+                        "startYear": "2022",
+                        "age": "56",
+                        "ratOff": "70",
+                        "cumulativePrestige": "0",
+                        "ratDef": "70",
+                        "homeState": "Arizona",
+                        "ratPot": "7o",
+                        "hometown": "Phoenix",
+                        "ratTalent": "79",
+                        "baselinePrestige": "75",
+                        "name": "Kenny Dillingham",
+                        "contractYear": "0"
+                    },
                     "rival": [
-                        "WKU"
+                        "AZ"
                     ],
-                    "rivalryNames": {},
-                    "prestige": "58",
-                    "hexColor": "#006341"
+                    "rivalryNames": {
+                        "AZ": "The Duel in the Desert"
+                    },
+                    "prestige": "55",
+                    "hexColor": "#8C1D40"
                 },
                 {
-                    "name": "UTSA",
-                    "state": "Texas",
-                    "abbreviation": "UTSA",
+                    "name": "Boise State",
+                    "state": "Idaho",
+                    "abbreviation": "BSU",
                     "rival": [
-                        "UTEP"
+                        "FRES"
                     ],
                     "rivalryNames": {},
                     "prestige": "68",
-                    "hexColor": "#F15A22"
+                    "hexColor": "#D64309"
                 },
                 {
-                    "name": "UTEP",
-                    "state": "Texas",
-                    "abbreviation": "UTEP",
+                    "name": "Washington State",
+                    "state": "Washington",
+                    "abbreviation": "WSU",
+                    "offCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "54",
+                        "cumulativePrestige": "0",
+                        "homeState": "Massachusetts",
+                        "ratPot": "76",
+                        "hometown": "North Oxford",
+                        "ratTalent": "58",
+                        "baselinePrestige": "70",
+                        "coachingAbility": "64",
+                        "name": "Eric Morris",
+                        "contractYear": "0"
+                    },
+                    "defCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "53",
+                        "cumulativePrestige": "0",
+                        "homeState": "Alaska",
+                        "ratPot": "90",
+                        "hometown": "Kotzebue",
+                        "ratTalent": "76",
+                        "baselinePrestige": "70",
+                        "coachingAbility": "71",
+                        "name": "Brian Ward",
+                        "contractYear": "0"
+                    },
+                    "headCoach": {
+                        "contractLength": "6",
+                        "startYear": "2022",
+                        "age": "58",
+                        "ratOff": "76",
+                        "cumulativePrestige": "0",
+                        "ratDef": "58",
+                        "homeState": "California",
+                        "ratPot": "74",
+                        "hometown": "Big Bear",
+                        "ratTalent": "53",
+                        "baselinePrestige": "70",
+                        "name": "Jake Dickert",
+                        "contractYear": "0"
+                    },
                     "rival": [
-                        "UTSA"
+                        "WASH"
                     ],
-                    "rivalryNames": {},
-                    "prestige": "37",
-                    "hexColor": "#FF8200"
-                },
-                {
-                    "name": "North Texas",
-                    "state": "Texas",
-                    "abbreviation": "UNT",
-                    "rival": [
-                        "RICE"
-                    ],
-                    "rivalryNames": {},
-                    "prestige": "40",
-                    "hexColor": "#00853E"
-                },
-                {
-                    "name": "Rice",
-                    "state": "Texas",
-                    "abbreviation": "RICE",
-                    "rival": [
-                        "UNT"
-                    ],
-                    "rivalryNames": {},
-                    "prestige": "35",
-                    "hexColor": "#00205B"
-                },
-                {
-                    "name": "Western Kentucky",
-                    "state": "Kentucky",
-                    "abbreviation": "WKU",
-                    "rival": [
-                        "UAB"
-                    ],
-                    "rivalryNames": {},
-                    "prestige": "65",
-                    "hexColor": "#C60C30"
+                    "rivalryNames": {
+                        "WASH": "The Apple Cup"
+                    },
+                    "prestige": "68",
+                    "hexColor": "#981E32"
                 }
             ]
         },
