@@ -2784,60 +2784,61 @@
                     "hexColor": "#154733"
                 },
                 {
-                    "name": "Mississippi State",
-                    "state": "Mississippi",
-                    "abbreviation": "MSST",
+                    "name": "UCLA",
+                    "state": "California",
+                    "abbreviation": "UCLA",
                     "offCoordinator": {
                         "contractLength": "3",
                         "startYear": "2022",
-                        "age": "46",
+                        "age": "45",
                         "cumulativePrestige": "0",
-                        "homeState": "New Jersey",
-                        "ratPot": "92",
-                        "hometown": "Fair Haven",
-                        "ratTalent": "84",
-                        "baselinePrestige": "65",
-                        "coachingAbility": "67",
-                        "name": "Steve Spurrier Jr.",
+                        "homeState": "Delaware",
+                        "ratPot": "79",
+                        "hometown": "Winterthur",
+                        "ratTalent": "50",
+                        "baselinePrestige": "60",
+                        "coachingAbility": "66",
+                        "name": "TBD",
                         "contractYear": "0"
                     },
                     "defCoordinator": {
                         "contractLength": "3",
                         "startYear": "2022",
-                        "age": "38",
+                        "age": "55",
                         "cumulativePrestige": "0",
-                        "homeState": "South Dakota",
-                        "ratPot": "84",
-                        "hometown": "North Sioux City",
-                        "ratTalent": "63",
-                        "baselinePrestige": "65",
-                        "coachingAbility": "70",
-                        "name": "Zach Arnett",
+                        "homeState": "Massachusetts",
+                        "ratPot": "57",
+                        "hometown": "Holy Cross",
+                        "ratTalent": "80",
+                        "baselinePrestige": "60",
+                        "coachingAbility": "76",
+                        "name": "Bill McGovern",
                         "contractYear": "0"
                     },
                     "headCoach": {
                         "contractLength": "6",
                         "startYear": "2022",
-                        "age": "42",
-                        "ratOff": "66",
+                        "age": "55",
+                        "ratOff": "57",
                         "cumulativePrestige": "0",
-                        "ratDef": "78",
-                        "homeState": "Tennessee",
-                        "ratPot": "93",
-                        "hometown": "Hendersonville",
-                        "ratTalent": "65",
-                        "baselinePrestige": "65",
-                        "name": "Zach Arnett",
-                        "contractYear": "0"
+                        "ratDef": "61",
+                        "homeState": "Texas",
+                        "ratPot": "53",
+                        "hometown": "Orange Grove",
+                        "ratTalent": "88",
+                        "baselinePrestige": "60",
+                        "name": "DeShaun Foster",
+                        "contractYear": "5"
                     },
                     "rival": [
-                        "MISS"
+                        "USC",
+                        "CAL"
                     ],
                     "rivalryNames": {
-                        "MISS": "The Egg Bowl"
+                        "USC": "Victory Bell"
                     },
-                    "prestige": "64",
-                    "hexColor": "#660000"
+                    "prestige": "57",
+                    "hexColor": "#2D68C4"
                 },
                 {
                     "name": "Louisville",
