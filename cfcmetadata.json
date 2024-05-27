@@ -3523,15 +3523,63 @@
                     "hexColor": "#0039A6"
                 },
                 {
-                    "name": "Louisiana",
-                    "state": "Louisiana",
-                    "abbreviation": "ULL",
+                    "name": "Oklahoma",
+                    "state": "Oklahoma",
+                    "abbreviation": "OKLA",
+                    "offCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "42",
+                        "cumulativePrestige": "0",
+                        "homeState": "Nevada",
+                        "ratPot": "89",
+                        "hometown": "McDermitt",
+                        "ratTalent": "67",
+                        "baselinePrestige": "90",
+                        "coachingAbility": "83",
+                        "name": "Jeff Lebby",
+                        "contractYear": "0"
+                    },
+                    "defCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "39",
+                        "cumulativePrestige": "0",
+                        "homeState": "California",
+                        "ratPot": "92",
+                        "hometown": "Isla Vista",
+                        "ratTalent": "76",
+                        "baselinePrestige": "90",
+                        "coachingAbility": "75",
+                        "name": "Todd Bates",
+                        "contractYear": "0"
+                    },
+                    "headCoach": {
+                        "contractLength": "6",
+                        "startYear": "2022",
+                        "age": "56",
+                        "ratOff": "65",
+                        "cumulativePrestige": "0",
+                        "ratDef": "90",
+                        "homeState": "Oklahoma",
+                        "ratPot": "70",
+                        "hometown": "Norman",
+                        "ratTalent": "82",
+                        "baselinePrestige": "80",
+                        "name": "Brent Venables",
+                        "contractYear": "0"
+                    },
                     "rival": [
-                        "USM"
+                        "TEX",
+                        "OKST",
+                        "NEB"
                     ],
-                    "rivalryNames": {},
-                    "prestige": "52",
-                    "hexColor": "#CE181E"
+                    "rivalryNames": {
+                        "TEX": "Red River Shootout",
+                        "OKST": "Bedlam"
+                    },
+                    "prestige": "68",
+                    "hexColor": "#841617"
                 },
                 {
                     "name": "Texas State",
