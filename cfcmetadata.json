@@ -2841,60 +2841,61 @@
                     "hexColor": "#2D68C4"
                 },
                 {
-                    "name": "Louisville",
-                    "state": "Kentucky",
-                    "abbreviation": "LOU",
+                    "name": "USC",
+                    "state": "California",
+                    "abbreviation": "USC",
                     "offCoordinator": {
                         "contractLength": "3",
                         "startYear": "2022",
-                        "age": "47",
+                        "age": "50",
                         "cumulativePrestige": "0",
-                        "homeState": "Hawaii",
-                        "ratPot": "63",
-                        "hometown": "Waikiki",
-                        "ratTalent": "63",
-                        "baselinePrestige": "70",
-                        "coachingAbility": "56",
-                        "name": "Lance Taylor",
+                        "homeState": "North Carolina",
+                        "ratPot": "92",
+                        "hometown": "Franklin",
+                        "ratTalent": "50",
+                        "baselinePrestige": "80",
+                        "coachingAbility": "78",
+                        "name": "Josh Henson",
                         "contractYear": "0"
                     },
                     "defCoordinator": {
                         "contractLength": "3",
                         "startYear": "2022",
-                        "age": "57",
+                        "age": "45",
                         "cumulativePrestige": "0",
-                        "homeState": "Tennessee",
-                        "ratPot": "78",
-                        "hometown": "Lewisburg",
-                        "ratTalent": "78",
-                        "baselinePrestige": "70",
-                        "coachingAbility": "63",
-                        "name": "Bryan Brown",
+                        "homeState": "New Hampshire",
+                        "ratPot": "70",
+                        "hometown": "Plymouth",
+                        "ratTalent": "62",
+                        "baselinePrestige": "80",
+                        "coachingAbility": "81",
+                        "name": "Alex Grinch",
                         "contractYear": "0"
                     },
                     "headCoach": {
                         "contractLength": "6",
                         "startYear": "2022",
-                        "age": "40",
-                        "ratOff": "51",
+                        "age": "44",
+                        "ratOff": "80",
                         "cumulativePrestige": "0",
-                        "ratDef": "79",
-                        "homeState": "New York",
-                        "ratPot": "94",
-                        "hometown": "Getty Square",
-                        "ratTalent": "86",
-                        "baselinePrestige": "70",
-                        "name": "Jeff Brohm",
+                        "ratDef": "65",
+                        "homeState": "Texas",
+                        "ratPot": "92",
+                        "hometown": "Lubbock",
+                        "ratTalent": "76",
+                        "baselinePrestige": "80",
+                        "name": "Lincoln Riley",
                         "contractYear": "0"
                     },
                     "rival": [
-                        "UK"
+                        "UCLA",
+                        "ND"
                     ],
                     "rivalryNames": {
-                        "UK": "The Governors Cup"
+                        "UCLA": "Victory Bell"
                     },
-                    "prestige": "80",
-                    "hexColor": "#AD0000"
+                    "prestige": "79",
+                    "hexColor": "#990000"
                 },
                 {
                     "name": "Maryland",
