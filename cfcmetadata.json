@@ -2952,60 +2952,61 @@
                     "hexColor": "#E03A3E"
                 },
                 {
-                    "name": "Kentucky",
-                    "state": "Kentucky",
-                    "abbreviation": "UK",
+                    "name": "Washington",
+                    "state": "Washington",
+                    "abbreviation": "WASH",
                     "offCoordinator": {
                         "contractLength": "3",
                         "startYear": "2022",
-                        "age": "51",
+                        "age": "43",
                         "cumulativePrestige": "0",
-                        "homeState": "Delaware",
-                        "ratPot": "83",
-                        "hometown": "Middletown",
-                        "ratTalent": "76",
-                        "baselinePrestige": "65",
-                        "coachingAbility": "66",
-                        "name": "Liam Coen",
+                        "homeState": "Texas",
+                        "ratPot": "65",
+                        "hometown": "Gilmer",
+                        "ratTalent": "55",
+                        "baselinePrestige": "85",
+                        "coachingAbility": "69",
+                        "name": "Ryan Grubb",
                         "contractYear": "0"
                     },
                     "defCoordinator": {
                         "contractLength": "3",
                         "startYear": "2022",
-                        "age": "54",
+                        "age": "56",
                         "cumulativePrestige": "0",
-                        "homeState": "Florida",
-                        "ratPot": "88",
-                        "hometown": "Plymouth",
-                        "ratTalent": "93",
-                        "baselinePrestige": "65",
-                        "coachingAbility": "82",
-                        "name": "Brad White",
+                        "homeState": "New York",
+                        "ratPot": "69",
+                        "hometown": "Andover",
+                        "ratTalent": "79",
+                        "baselinePrestige": "85",
+                        "coachingAbility": "69",
+                        "name": "William Inge",
                         "contractYear": "0"
                     },
                     "headCoach": {
                         "contractLength": "6",
                         "startYear": "2022",
-                        "age": "53",
-                        "ratOff": "71",
+                        "age": "40",
+                        "ratOff": "85",
                         "cumulativePrestige": "0",
                         "ratDef": "71",
-                        "homeState": "California",
-                        "ratPot": "80",
-                        "hometown": "Canyon Country",
+                        "homeState": "Maine",
+                        "ratPot": "82",
+                        "hometown": "Gray",
                         "ratTalent": "59",
-                        "baselinePrestige": "65",
-                        "name": "Mark Stoops",
+                        "baselinePrestige": "85",
+                        "name": "Kalen DeBoer",
                         "contractYear": "0"
                     },
                     "rival": [
-                        "LOU"
+                        "WSU",
+                        "ORE"
                     ],
                     "rivalryNames": {
-                        "LOU": "The Governors Cup"
+                        "WSU": "The Apple Cup"
                     },
-                    "prestige": "70",
-                    "hexColor": "#0033A0"
+                    "prestige": "75",
+                    "hexColor": "#4B2E83"
                 },
                 {
                     "name": "Missouri",
