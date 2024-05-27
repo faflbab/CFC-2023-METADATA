@@ -3,7 +3,7 @@
         "SECii": "SEC",
         "MAC": "B10",
         "COL": "ACC",
-        "CUSA": "B12",
+        "B12ii": "B12",
         "MWC": "PAC",
         "AAC": "GWC"
     },
@@ -12,7 +12,7 @@
         "SEC": "SECii",
         "B10": "MAC",
         "ACC": "COL",
-        "B12": "CUSA",
+        "B12": "B12ii",
         "PAC": "MWC",
         "AAC": "GWC"
     },
@@ -2230,9 +2230,9 @@
             ]
         },
         {
-            "confFullName": "Pacific Coast",
+            "confFullName": "Big 12 ii",
             "confPrestige": "80",
-            "confName": "PAC",
+            "confName": "B12ii",
             "confTeams": [
                 {
                     "name": "Colorado",
@@ -2289,61 +2289,60 @@
                     "hexColor": "#CFB87C"
                 },
                 {
-                    "name": "Oregon",
-                    "state": "Oregon",
-                    "abbreviation": "ORE",
+                    "name": "Brigham Young",
+                    "state": "Utah",
+                    "abbreviation": "BYU",
                     "offCoordinator": {
                         "contractLength": "3",
                         "startYear": "2022",
-                        "age": "37",
+                        "age": "49",
                         "cumulativePrestige": "0",
-                        "homeState": "Hawaii",
-                        "ratPot": "90",
-                        "hometown": "Koloa",
+                        "homeState": "Maryland",
+                        "ratPot": "65",
+                        "hometown": "Garrison",
                         "ratTalent": "60",
-                        "baselinePrestige": "90",
-                        "coachingAbility": "77",
-                        "name": "Junior Adams",
+                        "baselinePrestige": "75",
+                        "coachingAbility": "67",
+                        "name": "Aaron Roderick",
                         "contractYear": "0"
                     },
                     "defCoordinator": {
                         "contractLength": "3",
                         "startYear": "2022",
-                        "age": "34",
+                        "age": "39",
                         "cumulativePrestige": "0",
-                        "homeState": "American Samoa",
-                        "ratPot": "61",
-                        "hometown": "Aoloau",
-                        "ratTalent": "69",
-                        "baselinePrestige": "90",
-                        "coachingAbility": "65",
-                        "name": "Tosh Lupoi",
+                        "homeState": "Tennessee",
+                        "ratPot": "89",
+                        "hometown": "Newbern",
+                        "ratTalent": "59",
+                        "baselinePrestige": "75",
+                        "coachingAbility": "69",
+                        "name": "Ilaisa Tuiaki",
                         "contractYear": "0"
                     },
                     "headCoach": {
                         "contractLength": "6",
                         "startYear": "2022",
-                        "age": "51",
-                        "ratOff": "70",
+                        "age": "42",
+                        "ratOff": "77",
                         "cumulativePrestige": "0",
-                        "ratDef": "87",
-                        "homeState": "California",
-                        "ratPot": "86",
-                        "hometown": "North Hills",
-                        "ratTalent": "63",
-                        "baselinePrestige": "80",
-                        "name": "Dan Lanning",
+                        "ratDef": "61",
+                        "homeState": "Massachusetts",
+                        "ratPot": "72",
+                        "hometown": "West Roxbury",
+                        "ratTalent": "67",
+                        "baselinePrestige": "75",
+                        "name": "Kalani Sitake",
                         "contractYear": "0"
                     },
                     "rival": [
-                        "ORSU",
-                        "WASH"
+                        "UTAH"
                     ],
                     "rivalryNames": {
-                        "ORSU": "The Civil War"
+                        "UTAH": "The Holy War"
                     },
-                    "prestige": "88",
-                    "hexColor": "#154733"
+                    "prestige": "65",
+                    "hexColor": "#002E5D"
                 },
                 {
                     "name": "Oregon State",
@@ -2402,61 +2401,17 @@
                     "hexColor": "#DC4405"
                 },
                 {
-                    "name": "UCLA",
-                    "state": "California",
-                    "abbreviation": "UCLA",
-                    "offCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "45",
-                        "cumulativePrestige": "0",
-                        "homeState": "Delaware",
-                        "ratPot": "79",
-                        "hometown": "Winterthur",
-                        "ratTalent": "50",
-                        "baselinePrestige": "60",
-                        "coachingAbility": "66",
-                        "name": "TBD",
-                        "contractYear": "0"
-                    },
-                    "defCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "55",
-                        "cumulativePrestige": "0",
-                        "homeState": "Massachusetts",
-                        "ratPot": "57",
-                        "hometown": "Holy Cross",
-                        "ratTalent": "80",
-                        "baselinePrestige": "60",
-                        "coachingAbility": "76",
-                        "name": "Bill McGovern",
-                        "contractYear": "0"
-                    },
-                    "headCoach": {
-                        "contractLength": "6",
-                        "startYear": "2022",
-                        "age": "55",
-                        "ratOff": "57",
-                        "cumulativePrestige": "0",
-                        "ratDef": "61",
-                        "homeState": "Texas",
-                        "ratPot": "53",
-                        "hometown": "Orange Grove",
-                        "ratTalent": "88",
-                        "baselinePrestige": "60",
-                        "name": "DeShaun Foster",
-                        "contractYear": "5"
-                    },
+                    "name": "Central Florida",
+                    "state": "Florida",
+                    "abbreviation": "UCF",
                     "rival": [
-                        "USC",
-                        "CAL"
+                        "USF"
                     ],
                     "rivalryNames": {
-                        "USC": "Victory Bell"
+                        "USF": "War on I4"
                     },
-                    "prestige": "57",
-                    "hexColor": "#2D68C4"
+                    "prestige": "67",
+                    "hexColor": "#BA9B37"
                 },
                 {
                     "name": "Utah",
@@ -2517,61 +2472,18 @@
                     "hexColor": "#CC0000"
                 },
                 {
-                    "name": "USC",
-                    "state": "California",
-                    "abbreviation": "USC",
-                    "offCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "50",
-                        "cumulativePrestige": "0",
-                        "homeState": "North Carolina",
-                        "ratPot": "92",
-                        "hometown": "Franklin",
-                        "ratTalent": "50",
-                        "baselinePrestige": "80",
-                        "coachingAbility": "78",
-                        "name": "Josh Henson",
-                        "contractYear": "0"
-                    },
-                    "defCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "45",
-                        "cumulativePrestige": "0",
-                        "homeState": "New Hampshire",
-                        "ratPot": "70",
-                        "hometown": "Plymouth",
-                        "ratTalent": "62",
-                        "baselinePrestige": "80",
-                        "coachingAbility": "81",
-                        "name": "Alex Grinch",
-                        "contractYear": "0"
-                    },
-                    "headCoach": {
-                        "contractLength": "6",
-                        "startYear": "2022",
-                        "age": "44",
-                        "ratOff": "80",
-                        "cumulativePrestige": "0",
-                        "ratDef": "65",
-                        "homeState": "Texas",
-                        "ratPot": "92",
-                        "hometown": "Lubbock",
-                        "ratTalent": "76",
-                        "baselinePrestige": "80",
-                        "name": "Lincoln Riley",
-                        "contractYear": "0"
-                    },
+                    "name": "Utah State",
+                    "state": "Utah",
+                    "abbreviation": "USU",
                     "rival": [
-                        "UCLA",
-                        "ND"
+                        "UTAH",
+                        "HAW"
                     ],
                     "rivalryNames": {
-                        "UCLA": "Victory Bell"
+                        "UTAH": "Battle of the Brothers"
                     },
-                    "prestige": "79",
-                    "hexColor": "#990000"
+                    "prestige": "35",
+                    "hexColor": "#00263A"
                 },
                 {
                     "name": "Arizona",
@@ -2686,61 +2598,15 @@
                     "hexColor": "#8C1D40"
                 },
                 {
-                    "name": "Washington",
-                    "state": "Washington",
-                    "abbreviation": "WASH",
-                    "offCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "43",
-                        "cumulativePrestige": "0",
-                        "homeState": "Texas",
-                        "ratPot": "65",
-                        "hometown": "Gilmer",
-                        "ratTalent": "55",
-                        "baselinePrestige": "85",
-                        "coachingAbility": "69",
-                        "name": "Ryan Grubb",
-                        "contractYear": "0"
-                    },
-                    "defCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "56",
-                        "cumulativePrestige": "0",
-                        "homeState": "New York",
-                        "ratPot": "69",
-                        "hometown": "Andover",
-                        "ratTalent": "79",
-                        "baselinePrestige": "85",
-                        "coachingAbility": "69",
-                        "name": "William Inge",
-                        "contractYear": "0"
-                    },
-                    "headCoach": {
-                        "contractLength": "6",
-                        "startYear": "2022",
-                        "age": "40",
-                        "ratOff": "85",
-                        "cumulativePrestige": "0",
-                        "ratDef": "71",
-                        "homeState": "Maine",
-                        "ratPot": "82",
-                        "hometown": "Gray",
-                        "ratTalent": "59",
-                        "baselinePrestige": "85",
-                        "name": "Kalen DeBoer",
-                        "contractYear": "0"
-                    },
+                    "name": "Boise State",
+                    "state": "Idaho",
+                    "abbreviation": "BSU",
                     "rival": [
-                        "WSU",
-                        "ORE"
+                        "FRES"
                     ],
-                    "rivalryNames": {
-                        "WSU": "The Apple Cup"
-                    },
-                    "prestige": "75",
-                    "hexColor": "#4B2E83"
+                    "rivalryNames": {},
+                    "prestige": "68",
+                    "hexColor": "#D64309"
                 },
                 {
                     "name": "Washington State",
