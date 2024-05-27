@@ -4,8 +4,8 @@
         "B10ii": "B10",
         "ACCii": "ACC",
         "B12ii": "B12",
-        "MWC": "PAC",
-        "AAC": "GWC"
+        "MWC": "CUSA",
+        "AAC": "MAC"
     },
     "baseYear": 2024,
     "relegationRoutes": {
@@ -13,8 +13,8 @@
         "B10": "B10ii",
         "ACC": "ACCii",
         "B12": "B12ii",
-        "PAC": "MWC",
-        "AAC": "GWC"
+        "CUSA": "MWC",
+        "MAC": "AAC"
     },
     "conferences": [
         {
