@@ -2,7 +2,7 @@
 {
     "promotionRoutes": {
         "SECii": "SEC",
-        "B10ii": "B10",
+        "B10ii": "B1G",
         "ACCii": "ACC",
         "B12ii": "B12",
         "CUSA": "MWC",
@@ -11,7 +11,7 @@
     "baseYear": 2024,
     "relegationRoutes": {
         "SEC": "SECii",
-        "B10": "B10ii",
+        "B1G": "B10ii",
         "ACC": "ACCii",
         "B12": "B12ii",
         "MWC": "CUSA",
