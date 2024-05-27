@@ -2232,7 +2232,7 @@
         },
         {
             "confFullName": "Conference USA",
-            "confPrestige": "80",
+            "confPrestige": "70",
             "confName": "CUSA",
             "confTeams": [
                 {
@@ -2349,7 +2349,7 @@
         },
         {
             "confFullName": "Mid American",
-            "confPrestige": "80",
+            "confPrestige": "70",
             "confName": "MAC",
             "confTeams": [
                 {
@@ -3941,7 +3941,7 @@
         },
         {
             "confFullName": "Mountain West",
-            "confPrestige": "70",
+            "confPrestige": "65",
             "confName": "MWC",
             "confTeams": [
                 {
@@ -4061,7 +4061,7 @@
         },
         {
             "confFullName": "American Athletic",
-            "confPrestige": "70",
+            "confPrestige": "65",
             "confName": "AAC",
             "confTeams": [
                 {
