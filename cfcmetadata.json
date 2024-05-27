@@ -3040,6 +3040,62 @@
                     "rivalryNames": {},
                     "prestige": "68",
                     "hexColor": "#00694E"
+                },
+                {
+                    "name": "Nebraska",
+                    "state": "Nebraska",
+                    "abbreviation": "NEB",
+                    "offCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "68",
+                        "cumulativePrestige": "0",
+                        "homeState": "Minnesota",
+                        "ratPot": "81",
+                        "hometown": "Cottonwood",
+                        "ratTalent": "64",
+                        "baselinePrestige": "70",
+                        "coachingAbility": "80",
+                        "name": "Mark Whipple",
+                        "contractYear": "0"
+                    },
+                    "defCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "48",
+                        "cumulativePrestige": "0",
+                        "homeState": "Tennessee",
+                        "ratPot": "61",
+                        "hometown": "Nashville",
+                        "ratTalent": "79",
+                        "baselinePrestige": "65",
+                        "coachingAbility": "68",
+                        "name": "Erik Chinander",
+                        "contractYear": "0"
+                    },
+                    "headCoach": {
+                        "contractLength": "6",
+                        "startYear": "2022",
+                        "age": "50",
+                        "ratOff": "63",
+                        "cumulativePrestige": "0",
+                        "ratDef": "60",
+                        "homeState": "Nebraska",
+                        "ratPot": "69",
+                        "hometown": "McCook",
+                        "ratTalent": "77",
+                        "baselinePrestige": "65",
+                        "name": "Matt Rhule",
+                        "contractYear": "0"
+                    },
+                    "rival": [
+                        "IOWA",
+                        "OKLA",
+                        "WISC"
+                    ],
+                    "rivalryNames": {},
+                    "prestige": "80",
+                    "hexColor": "#E41C38"
                 }
             ]
         },
