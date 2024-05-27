@@ -3615,26 +3615,26 @@
             "confName": "IND",
             "confTeams": [
                 {
-                    "name": "Army",
-                    "state": "New York",
-                    "abbreviation": "ARMY",
+                    "name": "Stanford",
+                    "state": "California",
+                    "abbreviation": "STAN",
                     "rival": [
-                        "NAVY",
-                        "AIRF"
+                        "UCLA",
+                        "USC"
                     ],
                     "rivalryNames": {
-                        "NAVY": "Army-Navy Game"
+                        "USC": "Cal Bowl"
                     },
-                    "prestige": "45",
-                    "hexColor": "#D4BF91"
+                    "prestige": "75",
+                    "hexColor": "#990000"
                 },
                 {
-                    "name": "Air Force",
-                    "state": "Colorado",
-                    "abbreviation": "AIRF",
+                    "name": "California",
+                    "state": "California",
+                    "abbreviation": "CAL",
                     "rival": [
-                        "ARMY",
-                        "NAVY"
+                        "UCLA",
+                        "USC"
                     ],
                     "rivalryNames": {},
                     "prestige": "64",
@@ -3665,18 +3665,15 @@
                     "hexColor": "#98002E"
                 },
                 {
-                    "name": "Navy",
-                    "state": "Maryland",
-                    "abbreviation": "NAVY",
+                    "name": "Southern Methodist",
+                    "state": "Texas",
+                    "abbreviation": "SMU",
                     "rival": [
-                        "ARMY",
-                        "AIRF"
+                        "HOU"
                     ],
-                    "rivalryNames": {
-                        "ARMY": "Army-Navy Game"
-                    },
-                    "prestige": "45",
-                    "hexColor": "#00205B"
+                    "rivalryNames": {},
+                    "prestige": "68",
+                    "hexColor": "#0033A0"
                 },
                 {
                     "name": "Syracuse",
