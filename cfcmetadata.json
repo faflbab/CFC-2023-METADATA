@@ -3009,227 +3009,37 @@
                     "hexColor": "#4B2E83"
                 },
                 {
-                    "name": "Missouri",
-                    "state": "Missouri",
-                    "abbreviation": "MIZZ",
-                    "offCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "51",
-                        "cumulativePrestige": "0",
-                        "homeState": "Tennessee",
-                        "ratPot": "75",
-                        "hometown": "Maynardville",
-                        "ratTalent": "63",
-                        "baselinePrestige": "70",
-                        "coachingAbility": "66",
-                        "name": "Curtis Luper",
-                        "contractYear": "0"
-                    },
-                    "defCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "48",
-                        "cumulativePrestige": "0",
-                        "homeState": "Texas",
-                        "ratPot": "73",
-                        "hometown": "Fredericksburg",
-                        "ratTalent": "68",
-                        "baselinePrestige": "70",
-                        "coachingAbility": "70",
-                        "name": "Blake Baker",
-                        "contractYear": "0"
-                    },
-                    "headCoach": {
-                        "contractLength": "6",
-                        "startYear": "2021",
-                        "age": "53",
-                        "ratOff": "57",
-                        "cumulativePrestige": "0",
-                        "ratDef": "76",
-                        "homeState": "Ohio",
-                        "ratPot": "85",
-                        "hometown": "Ripley",
-                        "ratTalent": "68",
-                        "baselinePrestige": "70",
-                        "name": "Eli Drinkwitz",
-                        "contractYear": "0"
-                    },
+                    "name": "Rutgers",
+                    "state": "New Jersey",
+                    "abbreviation": "RUT",
                     "rival": [
-                        "SCAR",
-                        "ISU"
-                    ],
-                    "rivalryNames": {
-                        "SCAR": "The Mayors Cup"
-                    },
-                    "prestige": "85",
-                    "hexColor": "#F1B82D"
-                },
-                {
-                    "name": "Notre Dame",
-                    "state": "Indiana",
-                    "abbreviation": "ND",
-                    "offCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "54",
-                        "cumulativePrestige": "0",
-                        "homeState": "Arkansas",
-                        "ratPot": "73",
-                        "hometown": "Eureka Springs",
-                        "ratTalent": "46",
-                        "baselinePrestige": "75",
-                        "coachingAbility": "72",
-                        "name": "Tommy Rees",
-                        "contractYear": "0"
-                    },
-                    "defCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "46",
-                        "cumulativePrestige": "0",
-                        "homeState": "New Jersey",
-                        "ratPot": "70",
-                        "hometown": "Colt's Nuts",
-                        "ratTalent": "79",
-                        "baselinePrestige": "75",
-                        "coachingAbility": "64",
-                        "name": "Gerad Parker",
-                        "contractYear": "0"
-                    },
-                    "headCoach": {
-                        "contractLength": "6",
-                        "startYear": "2022",
-                        "age": "55",
-                        "ratOff": "65",
-                        "cumulativePrestige": "0",
-                        "ratDef": "70",
-                        "homeState": "Pennsylvania",
-                        "ratPot": "52",
-                        "hometown": "Marcus Freemman",
-                        "ratTalent": "77",
-                        "baselinePrestige": "75",
-                        "name": "Marcus Freeman",
-                        "contractYear": "0"
-                    },
-                    "rival": [
-                        "USC"
+                        "LIB"
                     ],
                     "rivalryNames": {},
-                    "prestige": "84",
-                    "hexColor": "#0C2340"
+                    "prestige": "73",
+                    "hexColor": "#CC0033"
                 },
                 {
-                    "name": "Nebraska",
-                    "state": "Nebraska",
-                    "abbreviation": "NEB",
-                    "offCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "68",
-                        "cumulativePrestige": "0",
-                        "homeState": "Minnesota",
-                        "ratPot": "81",
-                        "hometown": "Cottonwood",
-                        "ratTalent": "64",
-                        "baselinePrestige": "70",
-                        "coachingAbility": "80",
-                        "name": "Mark Whipple",
-                        "contractYear": "0"
-                    },
-                    "defCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "48",
-                        "cumulativePrestige": "0",
-                        "homeState": "Tennessee",
-                        "ratPot": "61",
-                        "hometown": "Nashville",
-                        "ratTalent": "79",
-                        "baselinePrestige": "65",
-                        "coachingAbility": "68",
-                        "name": "Erik Chinander",
-                        "contractYear": "0"
-                    },
-                    "headCoach": {
-                        "contractLength": "6",
-                        "startYear": "2022",
-                        "age": "50",
-                        "ratOff": "63",
-                        "cumulativePrestige": "0",
-                        "ratDef": "60",
-                        "homeState": "Nebraska",
-                        "ratPot": "69",
-                        "hometown": "McCook",
-                        "ratTalent": "77",
-                        "baselinePrestige": "65",
-                        "name": "Matt Rhule",
-                        "contractYear": "0"
-                    },
+                    "name": "Toledo",
+                    "state": "Ohio",
+                    "abbreviation": "TOL",
                     "rival": [
-                        "IOWA",
-                        "OKLA",
-                        "WISC"
+                        "CMU"
                     ],
                     "rivalryNames": {},
-                    "prestige": "80",
-                    "hexColor": "#E41C38"
+                    "prestige": "73",
+                    "hexColor": "#15397F"
                 },
                 {
-                    "name": "Ole Miss",
-                    "state": "Mississippi",
-                    "abbreviation": "MISS",
-                    "offCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "43",
-                        "cumulativePrestige": "0",
-                        "homeState": "Maryland",
-                        "ratPot": "99",
-                        "hometown": "Glen Arm",
-                        "ratTalent": "67",
-                        "baselinePrestige": "70",
-                        "coachingAbility": "74",
-                        "name": "Charlie Weis Jr.",
-                        "contractYear": "0"
-                    },
-                    "defCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "53",
-                        "cumulativePrestige": "0",
-                        "homeState": "Idaho",
-                        "ratPot": "96",
-                        "hometown": "Kellogg",
-                        "ratTalent": "73",
-                        "baselinePrestige": "70",
-                        "coachingAbility": "75",
-                        "name": "Chris Partridge",
-                        "contractYear": "0"
-                    },
-                    "headCoach": {
-                        "contractLength": "6",
-                        "startYear": "2022",
-                        "age": "48",
-                        "ratOff": "87",
-                        "cumulativePrestige": "0",
-                        "ratDef": "75",
-                        "homeState": "Washington",
-                        "ratPot": "80",
-                        "hometown": "Shelton",
-                        "ratTalent": "78",
-                        "baselinePrestige": "70",
-                        "name": "Lane Kiffin",
-                        "contractYear": "0"
-                    },
+                    "name": "Ohio",
+                    "state": "Ohio",
+                    "abbreviation": "OHIO",
                     "rival": [
-                        "MSST"
+                        "MIOH"
                     ],
-                    "rivalryNames": {
-                        "MSST": "The Egg Bowl"
-                    },
-                    "prestige": "87",
-                    "hexColor": "#CE1126"
+                    "rivalryNames": {},
+                    "prestige": "68",
+                    "hexColor": "#00694E"
                 }
             ]
         },
