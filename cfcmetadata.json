@@ -3505,15 +3505,61 @@
                     "hexColor": "#0033A0"
                 },
                 {
-                    "name": "Georgia State",
-                    "state": "Georgia",
-                    "abbreviation": "GSU",
+                    "name": "Missouri",
+                    "state": "Missouri",
+                    "abbreviation": "MIZZ",
+                    "offCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "51",
+                        "cumulativePrestige": "0",
+                        "homeState": "Tennessee",
+                        "ratPot": "75",
+                        "hometown": "Maynardville",
+                        "ratTalent": "63",
+                        "baselinePrestige": "70",
+                        "coachingAbility": "66",
+                        "name": "Curtis Luper",
+                        "contractYear": "0"
+                    },
+                    "defCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "48",
+                        "cumulativePrestige": "0",
+                        "homeState": "Texas",
+                        "ratPot": "73",
+                        "hometown": "Fredericksburg",
+                        "ratTalent": "68",
+                        "baselinePrestige": "70",
+                        "coachingAbility": "70",
+                        "name": "Blake Baker",
+                        "contractYear": "0"
+                    },
+                    "headCoach": {
+                        "contractLength": "6",
+                        "startYear": "2021",
+                        "age": "53",
+                        "ratOff": "57",
+                        "cumulativePrestige": "0",
+                        "ratDef": "76",
+                        "homeState": "Ohio",
+                        "ratPot": "85",
+                        "hometown": "Ripley",
+                        "ratTalent": "68",
+                        "baselinePrestige": "70",
+                        "name": "Eli Drinkwitz",
+                        "contractYear": "0"
+                    },
                     "rival": [
-                        "GSOU"
+                        "SCAR",
+                        "ISU"
                     ],
-                    "rivalryNames": {},
-                    "prestige": "48",
-                    "hexColor": "#0039A6"
+                    "rivalryNames": {
+                        "SCAR": "The Mayors Cup"
+                    },
+                    "prestige": "85",
+                    "hexColor": "#F1B82D"
                 },
                 {
                     "name": "Oklahoma",
