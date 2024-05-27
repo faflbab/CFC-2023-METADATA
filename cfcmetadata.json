@@ -3432,15 +3432,62 @@
                     "hexColor": "#222222"
                 },
                 {
-                    "name": "Arkansas State",
-                    "state": "Arkansas",
-                    "abbreviation": "AKSU",
+                    "name": "Texas",
+                    "state": "Texas",
+                    "abbreviation": "TEX",
+                    "offCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "46",
+                        "cumulativePrestige": "0",
+                        "homeState": "Alabama",
+                        "ratPot": "85",
+                        "hometown": "Elberta",
+                        "ratTalent": "50",
+                        "baselinePrestige": "90",
+                        "coachingAbility": "70",
+                        "name": "Kyle Flood",
+                        "contractYear": "0"
+                    },
+                    "defCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "54",
+                        "cumulativePrestige": "0",
+                        "homeState": "Colorado",
+                        "ratPot": "70",
+                        "hometown": "Guffey",
+                        "ratTalent": "94",
+                        "baselinePrestige": "90",
+                        "coachingAbility": "75",
+                        "name": "Pete Kwiatkowski",
+                        "contractYear": "0"
+                    },
+                    "headCoach": {
+                        "contractLength": "6",
+                        "startYear": "2022",
+                        "age": "48",
+                        "ratOff": "74",
+                        "cumulativePrestige": "0",
+                        "ratDef": "65",
+                        "homeState": "New Hampshire",
+                        "ratPot": "70",
+                        "hometown": "Danbury",
+                        "ratTalent": "72",
+                        "baselinePrestige": "90",
+                        "name": "Steve Sarkisian",
+                        "contractYear": "0"
+                    },
                     "rival": [
-                        "TSU"
+                        "OKLA",
+                        "TAMU"
                     ],
-                    "rivalryNames": {},
-                    "prestige": "50",
-                    "hexColor": "#CC092F"
+                    "rivalryNames": {
+                        "OKLA": "Red River Shootout",
+                        "TAMU": "Lone Star Showdown"
+                    },
+                    "prestige": "86",
+                    "hexColor": "#BF5700"
                 },
                 {
                     "name": "Coastal Carolina",
