@@ -3575,26 +3575,26 @@
                     "hexColor": "#B61E2E"
                 },
                 {
-                    "name": "Ohio",
-                    "state": "Ohio",
-                    "abbreviation": "OHIO",
+                    "name": "Buffalo",
+                    "state": "New York",
+                    "abbreviation": "BUFF",
                     "rival": [
                         "MIOH"
                     ],
                     "rivalryNames": {},
-                    "prestige": "68",
-                    "hexColor": "#00694E"
+                    "prestige": "55",
+                    "hexColor": "#000E2F"
                 },
                 {
-                    "name": "Toledo",
-                    "state": "Ohio",
-                    "abbreviation": "TOL",
+                    "name": "Northern Illinois",
+                    "state": "Illinois",
+                    "abbreviation": "NIU",
                     "rival": [
                         "CMU"
                     ],
                     "rivalryNames": {},
-                    "prestige": "73",
-                    "hexColor": "#15397F"
+                    "prestige": "50",
+                    "hexColor": "#990000"
                 },
                 {
                     "name": "Western Michigan",
@@ -3944,15 +3944,15 @@
             "confName": "MWC",
             "confTeams": [
                 {
-                    "name": "Boise State",
-                    "state": "Idaho",
-                    "abbreviation": "BSU",
+                    "name": "Colorado State",
+                    "state": "Colorado",
+                    "abbreviation": "CSU",
                     "rival": [
                         "FRES"
                     ],
                     "rivalryNames": {},
-                    "prestige": "68",
-                    "hexColor": "#D64309"
+                    "prestige": "45",
+                    "hexColor": "#024731"
                 },
                 {
                     "name": "Fresno State",
@@ -4021,9 +4021,9 @@
                     "hexColor": "#CF0A2C"
                 },
                 {
-                    "name": "Utah State",
-                    "state": "Utah",
-                    "abbreviation": "USU",
+                    "name": "Air Force",
+                    "state": "Colorado",
+                    "abbreviation": "AIR",
                     "rival": [
                         "UTAH",
                         "HAW"
@@ -4031,7 +4031,7 @@
                     "rivalryNames": {
                         "UTAH": "Battle of the Brothers"
                     },
-                    "prestige": "35",
+                    "prestige": "55",
                     "hexColor": "#00263A"
                 },
                 {
@@ -4075,82 +4075,41 @@
                     "hexColor": "#592A8A"
                 },
                 {
-                    "name": "Central Florida",
-                    "state": "Florida",
-                    "abbreviation": "UCF",
+                    "name": "Navy",
+                    "state": "Maryland",
+                    "abbreviation": "NAVY",
                     "rival": [
-                        "USF"
+                        "ARMY"
                     ],
                     "rivalryNames": {
-                        "USF": "War on I4"
+                        "ARMY": "War on I4"
                     },
-                    "prestige": "67",
-                    "hexColor": "#BA9B37"
+                    "prestige": "45",
+                    "hexColor": "#00205B"
                 },
                 {
-                    "name": "Cincinnati",
-                    "state": "Ohio",
-                    "abbreviation": "CIN",
-                    "offCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "41",
-                        "cumulativePrestige": "0",
-                        "homeState": "Iowa",
-                        "ratPot": "69",
-                        "hometown": "Runnells",
-                        "ratTalent": "88",
-                        "baselinePrestige": "75",
-                        "coachingAbility": "76",
-                        "name": "Gino Guidugli",
-                        "contractYear": "0"
-                    },
-                    "defCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "63",
-                        "cumulativePrestige": "0",
-                        "homeState": "Ohio",
-                        "ratPot": "94",
-                        "hometown": "Youngstown",
-                        "ratTalent": "79",
-                        "baselinePrestige": "75",
-                        "coachingAbility": "61",
-                        "name": "Mike Tressel",
-                        "contractYear": "0"
-                    },
-                    "headCoach": {
-                        "contractLength": "6",
-                        "startYear": "2022",
-                        "age": "41",
-                        "ratOff": "67",
-                        "cumulativePrestige": "0",
-                        "ratDef": "63",
-                        "homeState": "Georgia",
-                        "ratPot": "58",
-                        "hometown": "Fort Valley",
-                        "ratTalent": "90",
-                        "baselinePrestige": "75",
-                        "name": "Scott Satterfield",
-                        "contractYear": "0"
-                    },
+                    "name": "Army",
+                    "state": "New York",
+                    "abbreviation": "ARMY",
                     "rival": [
-                        "MEM"
+                        "NAVY"
                     ],
-                    "rivalryNames": {},
-                    "prestige": "59",
-                    "hexColor": "#000000"
+                    "rivalryNames": {
+                        "NAVY": "War on I4"
+                    },
+                    "prestige": "55",
+                    "hexColor": "#006747"
                 },
                 {
-                    "name": "Houston",
+                    "name": "Sam Houston",
                     "state": "Texas",
-                    "abbreviation": "HOU",
+                    "abbreviation": "SAM",
                     "rival": [
                         "SMU"
                     ],
                     "rivalryNames": {},
-                    "prestige": "60",
-                    "hexColor": "#C8102E"
+                    "prestige": "35",
+                    "hexColor": "#FE5000"
                 },
                 {
                     "name": "Memphis",
@@ -4164,14 +4123,14 @@
                     "hexColor": "#003087"
                 },
                 {
-                    "name": "Southern Methodist",
-                    "state": "Texas",
-                    "abbreviation": "SMU",
+                    "name": "Liberty",
+                    "state": "Virginia",
+                    "abbreviation": "LIB",
                     "rival": [
-                        "HOU"
+                        "JMU"
                     ],
                     "rivalryNames": {},
-                    "prestige": "68",
+                    "prestige": "55",
                     "hexColor": "#0033A0"
                 },
                 {
