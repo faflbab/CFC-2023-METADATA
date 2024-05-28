@@ -2289,15 +2289,15 @@
                     "hexColor": "#006341"
                 },
                 {
-                    "name": "UTSA",
-                    "state": "Texas",
-                    "abbreviation": "UTSA",
+                    "name": "Liberty",
+                    "state": "Virginia",
+                    "abbreviation": "LIB",
                     "rival": [
-                        "UTEP"
+                        "JMU"
                     ],
                     "rivalryNames": {},
-                    "prestige": "55",
-                    "hexColor": "#F15A22"
+                    "prestige": "30",
+                    "hexColor": "#0033A0"
                 },
                 {
                     "name": "UTEP",
