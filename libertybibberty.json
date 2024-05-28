@@ -2410,15 +2410,15 @@
                     "hexColor": "#003087"
                 },
                 {
-                    "name": "Liberty",
-                    "state": "Virginia",
-                    "abbreviation": "LIB",
+                    "name": "UMass",
+                    "state": "Massachusettes",
+                    "abbreviation": "MASS",
                     "rival": [
-                        "JMU"
+                        "CONN"
                     ],
                     "rivalryNames": {},
-                    "prestige": "30",
-                    "hexColor": "#0033A0"
+                    "prestige": "35",
+                    "hexColor": "#971B2F"
                 },
                 {
                     "name": "South Florida",
