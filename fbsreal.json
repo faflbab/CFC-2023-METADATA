@@ -2274,7 +2274,7 @@
                         "LTEC"
                     ],
                     "rivalryNames": {},
-                    "prestige": "45",
+                    "prestige": "40",
                     "hexColor": "#0066CC"
                 },
                 {
@@ -2329,7 +2329,7 @@
                         "UNT"
                     ],
                     "rivalryNames": {},
-                    "prestige": "50",
+                    "prestige": "45",
                     "hexColor": "#00205B"
                 },
                 {
@@ -2340,7 +2340,7 @@
                         "UAB"
                     ],
                     "rivalryNames": {},
-                    "prestige": "55",
+                    "prestige": "50",
                     "hexColor": "#C60C30"
                 }
             ]
@@ -2384,7 +2384,7 @@
                     "rivalryNames": {
                         "NAVY": "War on I4"
                     },
-                    "prestige": "55",
+                    "prestige": "40",
                     "hexColor": "#006747"
                 },
                 {
@@ -2406,7 +2406,7 @@
                         "CIN"
                     ],
                     "rivalryNames": {},
-                    "prestige": "65",
+                    "prestige": "50",
                     "hexColor": "#003087"
                 },
                 {
@@ -3880,7 +3880,7 @@
                         "FRES"
                     ],
                     "rivalryNames": {},
-                    "prestige": "60",
+                    "prestige": "55",
                     "hexColor": "#D64309"
                 },
                 {
@@ -3936,7 +3936,7 @@
                     "rivalryNames": {
                         "WASH": "The Apple Cup"
                     },
-                    "prestige": "65",
+                    "prestige": "60",
                     "hexColor": "#981E32"
                 }
             ]
@@ -4034,7 +4034,7 @@
                     "rivalryNames": {
                         "UTAH": "Battle of the Brothers"
                     },
-                    "prestige": "55",
+                    "prestige": "40",
                     "hexColor": "#00263A"
                 },
                 {
@@ -4096,7 +4096,7 @@
                         "BALL"
                     ],
                     "rivalryNames": {},
-                    "prestige": "55",
+                    "prestige": "50",
                     "hexColor": "#FE5000"
                 },
                 {
@@ -4107,7 +4107,7 @@
                         "TOL"
                     ],
                     "rivalryNames": {},
-                    "prestige": "50",
+                    "prestige": "40",
                     "hexColor": "#6A0032"
                 },
                 {
@@ -4140,7 +4140,7 @@
                         "OHIO"
                     ],
                     "rivalryNames": {},
-                    "prestige": "60",
+                    "prestige": "50",
                     "hexColor": "#B61E2E"
                 },
                 {
