@@ -4067,118 +4067,114 @@
             "confName": "MAC",
             "confTeams": [
                 {
-                    "name": "East Carolina",
-                    "state": "North Carolina",
-                    "abbreviation": "ECU",
+                    "name": "Akron",
+                    "state": "Ohio",
+                    "abbreviation": "AKR",
                     "rival": [
-                        "TLSA"
+                        "KENT"
+                    ],
+                    "rivalryNames": {},
+                    "prestige": "35",
+                    "hexColor": "#041E42"
+                },
+                {
+                    "name": "Ball State",
+                    "state": "Indiana",
+                    "abbreviation": "BALL",
+                    "rival": [
+                        "BGSU"
                     ],
                     "rivalryNames": {},
                     "prestige": "40",
-                    "hexColor": "#592A8A"
+                    "hexColor": "#BA0C2F"
                 },
                 {
-                    "name": "Navy",
-                    "state": "Maryland",
-                    "abbreviation": "NAVY",
+                    "name": "Bowling Green",
+                    "state": "Ohio",
+                    "abbreviation": "BGSU",
                     "rival": [
-                        "ARMY"
-                    ],
-                    "rivalryNames": {
-                        "ARMY": "War on I4"
-                    },
-                    "prestige": "45",
-                    "hexColor": "#00205B"
-                },
-                {
-                    "name": "Army",
-                    "state": "New York",
-                    "abbreviation": "ARMY",
-                    "rival": [
-                        "NAVY"
-                    ],
-                    "rivalryNames": {
-                        "NAVY": "War on I4"
-                    },
-                    "prestige": "55",
-                    "hexColor": "#006747"
-                },
-                {
-                    "name": "Sam Houston",
-                    "state": "Texas",
-                    "abbreviation": "SAM",
-                    "rival": [
-                        "SMU"
-                    ],
-                    "rivalryNames": {},
-                    "prestige": "35",
-                    "hexColor": "#FE5000"
-                },
-                {
-                    "name": "Memphis",
-                    "state": "Tennessee",
-                    "abbreviation": "MEM",
-                    "rival": [
-                        "CIN"
-                    ],
-                    "rivalryNames": {},
-                    "prestige": "70",
-                    "hexColor": "#003087"
-                },
-                {
-                    "name": "Liberty",
-                    "state": "Virginia",
-                    "abbreviation": "LIB",
-                    "rival": [
-                        "JMU"
-                    ],
-                    "rivalryNames": {},
-                    "prestige": "55",
-                    "hexColor": "#0033A0"
-                },
-                {
-                    "name": "South Florida",
-                    "state": "Florida",
-                    "abbreviation": "USF",
-                    "rival": [
-                        "TUL"
+                        "BALL"
                     ],
                     "rivalryNames": {},
                     "prestige": "60",
-                    "hexColor": "#006747"
+                    "hexColor": "#FE5000"
                 },
                 {
-                    "name": "Tulane",
-                    "state": "Louisiana",
-                    "abbreviation": "TUL",
+                    "name": "Central Michigan",
+                    "state": "Michigan",
+                    "abbreviation": "CMU",
                     "rival": [
-                        "TEM"
+                        "TOL"
                     ],
                     "rivalryNames": {},
-                    "prestige": "75",
-                    "hexColor": "#006747"
+                    "prestige": "50",
+                    "hexColor": "#6A0032"
                 },
                 {
-                    "name": "Temple",
-                    "state": "Pennsylvania",
-                    "abbreviation": "TEM",
+                    "name": "Eastern Michigan",
+                    "state": "Michigan",
+                    "abbreviation": "EMU",
                     "rival": [
-                        "TUL"
+                        "WMU"
+                    ],
+                    "rivalryNames": {},
+                    "prestige": "40",
+                    "hexColor": "#006633"
+                },
+                {
+                    "name": "Kent State",
+                    "state": "Ohio",
+                    "abbreviation": "KENT",
+                    "rival": [
+                        "AKR"
+                    ],
+                    "rivalryNames": {},
+                    "prestige": "25",
+                    "hexColor": "#002664"
+                },
+                {
+                    "name": "Miami OH",
+                    "state": "Ohio",
+                    "abbreviation": "MIOH",
+                    "rival": [
+                        "OHIO"
+                    ],
+                    "rivalryNames": {},
+                    "prestige": "65",
+                    "hexColor": "#B61E2E"
+                },
+                {
+                    "name": "Buffalo",
+                    "state": "New York",
+                    "abbreviation": "BUFF",
+                    "rival": [
+                        "MIOH"
+                    ],
+                    "rivalryNames": {},
+                    "prestige": "40",
+                    "hexColor": "#000E2F"
+                },
+                {
+                    "name": "Northern Illinois",
+                    "state": "Illinois",
+                    "abbreviation": "NIU",
+                    "rival": [
+                        "CMU"
                     ],
                     "rivalryNames": {},
                     "prestige": "35",
-                    "hexColor": "#9D2235"
+                    "hexColor": "#990000"
                 },
                 {
-                    "name": "Tulsa",
-                    "state": "Oklahoma",
-                    "abbreviation": "TLSA",
+                    "name": "Western Michigan",
+                    "state": "Michigan",
+                    "abbreviation": "WMU",
                     "rival": [
-                        "ECU"
+                        "EMU"
                     ],
                     "rivalryNames": {},
-                    "prestige": "30",
-                    "hexColor": "#002D72"
+                    "prestige": "45",
+                    "hexColor": "#6C4023"
                 }
             ]
         }
