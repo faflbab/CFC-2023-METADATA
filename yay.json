@@ -2230,7 +2230,7 @@
         },
         {
             "confFullName": "Conference USA",
-            "confPrestige": "70",
+            "confPrestige": "60",
             "confName": "CUSA",
             "confTeams": [
                 {
@@ -2285,7 +2285,7 @@
                         "WKU"
                     ],
                     "rivalryNames": {},
-                    "prestige": "50",
+                    "prestige": "45",
                     "hexColor": "#006341"
                 },
                 {
@@ -2347,7 +2347,7 @@
         },
         {
             "confFullName": "American Athletic",
-            "confPrestige": "70",
+            "confPrestige": "60",
             "confName": "AAC",
             "confTeams": [
                 {
@@ -2417,7 +2417,7 @@
                         "JMU"
                     ],
                     "rivalryNames": {},
-                    "prestige": "45",
+                    "prestige": "30",
                     "hexColor": "#0033A0"
                 },
                 {
@@ -3943,7 +3943,7 @@
         },
         {
             "confFullName": "Mountain West",
-            "confPrestige": "65",
+            "confPrestige": "55",
             "confName": "MWC",
             "confTeams": [
                 {
@@ -4056,14 +4056,14 @@
                         "UNM"
                     ],
                     "rivalryNames": {},
-                    "prestige": "55",
+                    "prestige": "50",
                     "hexColor": "#492F24"
                 }
             ]
         },
         {
             "confFullName": "Mid American",
-            "confPrestige": "65",
+            "confPrestige": "55",
             "confName": "MAC",
             "confTeams": [
                 {
