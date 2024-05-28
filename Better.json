@@ -2388,22 +2388,22 @@
                     "hexColor": "#006747"
                 },
                 {
-                    "name": "Sam Houston",
-                    "state": "Texas",
-                    "abbreviation": "SAM",
+                    "name": "Charlotte",
+                    "state": "North Carolina",
+                    "abbreviation": "CHA",
                     "rival": [
-                        "SMU"
+                        "MEM"
                     ],
                     "rivalryNames": {},
                     "prestige": "35",
-                    "hexColor": "#FE5000"
+                    "hexColor": "#00694E"
                 },
                 {
                     "name": "Memphis",
                     "state": "Tennessee",
                     "abbreviation": "MEM",
                     "rival": [
-                        "CIN"
+                        "CHA"
                     ],
                     "rivalryNames": {},
                     "prestige": "50",
@@ -2417,7 +2417,7 @@
                         "JMU"
                     ],
                     "rivalryNames": {},
-                    "prestige": "55",
+                    "prestige": "45",
                     "hexColor": "#0033A0"
                 },
                 {
@@ -2548,7 +2548,7 @@
                         "APP"
                     ],
                     "rivalryNames": {},
-                    "prestige": "65",
+                    "prestige": "55",
                     "hexColor": "#006F71"
                 },
                 {
@@ -3367,7 +3367,7 @@
                         "BC"
                     ],
                     "rivalryNames": {},
-                    "prestige": "60",
+                    "prestige": "55",
                     "hexColor": "#F76900"
                 },
                 {
@@ -3965,7 +3965,7 @@
                         "BSU"
                     ],
                     "rivalryNames": {},
-                    "prestige": "55",
+                    "prestige": "40",
                     "hexColor": "#DB0032"
                 },
                 {
@@ -4173,7 +4173,7 @@
                         "EMU"
                     ],
                     "rivalryNames": {},
-                    "prestige": "45",
+                    "prestige": "40",
                     "hexColor": "#6C4023"
                 }
             ]
