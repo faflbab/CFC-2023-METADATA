@@ -2371,7 +2371,7 @@
                     "rivalryNames": {
                         "ARMY": "War on I4"
                     },
-                    "prestige": "45",
+                    "prestige": "35",
                     "hexColor": "#00205B"
                 },
                 {
@@ -2384,7 +2384,7 @@
                     "rivalryNames": {
                         "NAVY": "War on I4"
                     },
-                    "prestige": "40",
+                    "prestige": "35",
                     "hexColor": "#006747"
                 },
                 {
@@ -2410,15 +2410,15 @@
                     "hexColor": "#003087"
                 },
                 {
-                    "name": "Liberty",
-                    "state": "Virginia",
-                    "abbreviation": "LIB",
+                    "name": "UTSA",
+                    "state": "Texas",
+                    "abbreviation": "UTSA",
                     "rival": [
-                        "JMU"
+                        "UTEP"
                     ],
                     "rivalryNames": {},
-                    "prestige": "30",
-                    "hexColor": "#0033A0"
+                    "prestige": "50",
+                    "hexColor": "#F15A22"
                 },
                 {
                     "name": "South Florida",
