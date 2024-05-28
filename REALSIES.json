@@ -4,7 +4,7 @@
         "SECii": "SEC",
         "B1Gii": "B1G",
         "ACCii": "ACC",
-        "XIIii": "XII",
+        "XII*": "XII",
        
     },
     "baseYear": 2024,
@@ -12,7 +12,7 @@
         "SEC": "SECii",
         "B1G": "B1Gii",
         "ACC": "ACCii",
-        "B12": "B12ii",
+        "XII": "XII*",
 
     },
     "conferences": [
@@ -3503,7 +3503,7 @@
         {
             "confFullName": "Big 12 II",
             "confPrestige": "75",
-            "confName": "XIIii",
+            "confName": "XII*",
             "confTeams": [
                 {
                     "name": "Colorado",
