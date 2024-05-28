@@ -2241,7 +2241,7 @@
                         "FIU"
                     ],
                     "rivalryNames": {},
-                    "prestige": "40",
+                    "prestige": "35",
                     "hexColor": "#003366"
                 },
                 {
@@ -2274,7 +2274,7 @@
                         "LTEC"
                     ],
                     "rivalryNames": {},
-                    "prestige": "40",
+                    "prestige": "35",
                     "hexColor": "#0066CC"
                 },
                 {
@@ -3965,7 +3965,7 @@
                         "BSU"
                     ],
                     "rivalryNames": {},
-                    "prestige": "40",
+                    "prestige": "35",
                     "hexColor": "#DB0032"
                 },
                 {
@@ -4009,7 +4009,7 @@
                         "SDSU"
                     ],
                     "rivalryNames": {},
-                    "prestige": "55",
+                    "prestige": "45",
                     "hexColor": "#0055A2"
                 },
                 {
@@ -4034,7 +4034,7 @@
                     "rivalryNames": {
                         "UTAH": "Battle of the Brothers"
                     },
-                    "prestige": "40",
+                    "prestige": "35",
                     "hexColor": "#00263A"
                 },
                 {
@@ -4096,7 +4096,7 @@
                         "BALL"
                     ],
                     "rivalryNames": {},
-                    "prestige": "50",
+                    "prestige": "45",
                     "hexColor": "#FE5000"
                 },
                 {
