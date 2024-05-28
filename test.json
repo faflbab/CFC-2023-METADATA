@@ -1,18 +1,18 @@
 
 {
     "promotionRoutes": {
-        "SECii": "SEC",
-        "B1Gii": "B1G",
-        "ACCii": "ACC",
-        "XII*": "XII",
+        "SEC2": "SEC",
+        "B1G2": "B1G",
+        "ACC2": "ACC",
+        "XII2": "XII",
        
     },
     "baseYear": 2024,
     "relegationRoutes": {
-        "SEC": "SECii",
-        "B1G": "B1Gii",
-        "ACC": "ACCii",
-        "XII": "XII*",
+        "SEC": "SEC2",
+        "B1G": "B1G2",
+        "ACC": "ACC2",
+        "XII": "XII2",
 
     },
     "conferences": [
@@ -2465,7 +2465,7 @@
         {
             "confFullName": "Southeastern II",
             "confPrestige": "75",
-            "confName": "SECii",
+            "confName": "SEC2",
             "confTeams": [
                 {
                     "name": "Appalachian State",
@@ -2858,7 +2858,7 @@
         {
             "confFullName": "Big 10 II",
             "confPrestige": "70",
-            "confName": "B1Gii",
+            "confName": "B1G2",
             "confTeams": [
                 {
                     "name": "Illinois",
@@ -3291,7 +3291,7 @@
         {
             "confFullName": "Atlantic Coast II",
             "confPrestige": "75",
-            "confName": "ACCii",
+            "confName": "ACC2",
             "confTeams": [
                 {
                     "name": "Stanford",
@@ -3503,7 +3503,7 @@
         {
             "confFullName": "Big 12 II",
             "confPrestige": "75",
-            "confName": "XII*",
+            "confName": "XII2",
             "confTeams": [
                 {
                     "name": "Colorado",
