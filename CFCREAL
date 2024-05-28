@@ -4177,6 +4177,17 @@
                     "rivalryNames": {},
                     "prestige": "33",
                     "hexColor": "#002D72"
+                },
+                {
+                    "name": "Poop",
+                    "state": "Louisiana",
+                    "abbreviation": "poo",
+                    "rival": [
+                        "TEM"
+                    ],
+                    "rivalryNames": {},
+                    "prestige": "62",
+                    "hexColor": "#006747"
                 }
             ]
         }
