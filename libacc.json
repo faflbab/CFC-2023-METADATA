@@ -3425,15 +3425,15 @@
                     "hexColor": "#0C2340"
                 },
                 {
-                    "name": "UMass",
-                    "state": "Massachusettes",
-                    "abbreviation": "MASS",
+                    "name": "Liberty",
+                    "state": "Virginia",
+                    "abbreviation": "LIB",
                     "rival": [
-                        "CONN"
+                        "JMU"
                     ],
                     "rivalryNames": {},
-                    "prestige": "35",
-                    "hexColor": "#971B2F"
+                    "prestige": "55",
+                    "hexColor": "#0033A0"
                 },
                 {
                     "name": "UConn",
